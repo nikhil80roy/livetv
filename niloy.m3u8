@@ -1,0 +1,936 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png"group-title="Bangladeshi channel" group-title="",BTV
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png"group-title="Bangladeshi channel" group-title="",BTV
+https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png"group-title="Bangladeshi channel" group-title="",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg/revision/latest?cb=20240806023450"group-title="Bangladeshi channel" group-title="",BTV
+http://198.195.239.50:8095/btv/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg/revision/latest?cb=20240806023450"group-title="Bangladeshi channel" group-title="",BTV
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Channel_1_Logo_Bangladesh.svg/revision/latest?cb=20260205224305"group-title="Bangladeshi channel" group-title="",Channel 1
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2026/01/thikana.jpeg"group-title="Bangladeshi channel" group-title="",Thinaka TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/BTV_Chattogram_Logo.svg/revision/latest?cb=20240908184854"group-title="Bangladeshi channel" group-title="",BTV CTG
+http://103.229.254.25:7001/play/a061/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/2/20/Green_TV_Logo.png/revision/latest?cb=20230525084236"group-title="Bangladeshi channel" group-title="",Green TV HD
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/SATVBD.png/revision/latest?cb=20210921203452"group-title="Bangladeshi channel" group-title="",SA TV HD
+http://116.204.149.16/satv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Logo_of_Bijoy_TV_%282019%29.svg/revision/latest?cb=20260427150115"group-title="Bangladeshi channel" group-title="",Bijoy TV HD
+http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHmUVUj-HPb9QIt88-SgQBng/m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Logo_of_Bijoy_TV_%282019%29.svg/revision/latest?cb=20260427150115"group-title="Bangladeshi channel" group-title="",Bijoy TV HD
+https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Logo_of_Bijoy_TV_%282019%29.svg/revision/latest?cb=20260427150115"group-title="Bangladeshi channel" group-title="",Bijoy TV HD
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9700.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Logo_of_Bijoy_TV_%282019%29.svg/revision/latest?cb=20260427150115"group-title="Bangladeshi channel" group-title="",Bijoy TV HD
+https://sm-monirul.top/toffee/play/bijoytv.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Logo_of_Bijoy_TV_%282019%29.svg/revision/latest?cb=20260427150115"group-title="Bangladeshi channel" group-title="",Bijoy TV HD
+https://tvsen6.aynaott.com/bijoytv/index.m3u8?e=1779237903&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3a9ff6f51641e750dd73747908b73c72
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Logo_of_Bijoy_TV_%282019%29.svg/revision/latest?cb=20260427150115"group-title="Bangladeshi channel" group-title="",Bijoy TV HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/581.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Logo_of_Bijoy_TV_%282019%29.svg/revision/latest?cb=20260427150115"group-title="Bangladeshi channel" group-title="",Bijoy TV HD
+http://luckonline.eu/live/y49sz6KMQs/6115263489/581.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Logo_of_Bijoy_TV_%282019%29.svg/revision/latest?cb=20260427150115"group-title="Bangladeshi channel" group-title="",Bijoy TV HD
+https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Logo_of_Bijoy_TV_%282019%29.svg/revision/latest?cb=20260427150115"group-title="Bangladeshi channel" group-title="",Bijoy TV HD
+https://sm-monirul.top/toffee/play/bijoytv.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0b/Nexus_Television_HD_logo.png/revision/latest?cb=20241009111738"group-title="Bangladeshi channel" group-title="",Nexus TV HD
+http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHg4UQVwo4IGaPuEu46D2RuI/m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0b/Nexus_Television_HD_logo.png/revision/latest?cb=20241009111738"group-title="Bangladeshi channel" group-title="",Nexus TV HD
+https://edge2.roarzone.net:8447/roarzone/edge5/nexus-tv/index.m3u8?token=6cc07c821b8b895376209f87de30802af8b8e247-452d3f25a177d0c2519d33f33aeb6470-1779244538-1779233738
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0b/Nexus_Television_HD_logo.png/revision/latest?cb=20241009111738"group-title="Bangladeshi channel" group-title="",Nexus TV HD
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9699.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0b/Nexus_Television_HD_logo.png/revision/latest?cb=20241009111738"group-title="Bangladeshi channel" group-title="",Nexus TV HD
+http://luckonline.eu/live/y49sz6KMQs/6115263489/572.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0b/Nexus_Television_HD_logo.png/revision/latest?cb=20241009111738"group-title="Bangladeshi channel" group-title="",Nexus TV HD
+https://edge2.roarzone.net:8447/roarzone/edge5/nexus-tv/index.m3u8?token=e1cdc2c63036fa8964fb519def74f1fe341d60de-8cbc42d67843ebf3c8179f1920703a93-1779519320-1779508520
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0b/Nexus_Television_HD_logo.png/revision/latest?cb=20241009111738"group-title="Bangladeshi channel" group-title="",Nexus TV HD
+https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1779508651&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=60c87b004defff784ce04ab2b4c05e98
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0b/Nexus_Television_HD_logo.png/revision/latest?cb=20241009111738"group-title="Bangladeshi channel" group-title="",Nexus TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Bortoman TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/bartomantv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Biswa Bangla 24
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/63/1/nagorik-tv-logo-png_seeklogo-630898.png"group-title="Bangladeshi channel" group-title="",Nagorik TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/BTV_News_logo.png/revision/latest?cb=20250203145015"group-title="Bangladeshi channel" group-title="",BTV News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f1/Sangsad_TV_logo.png/revision/latest?cb=20210904041009"group-title="Bangladeshi channel" group-title="",Sangsad TV
+https://streams.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f1/Sangsad_TV_logo.png/revision/latest?cb=20210904041009"group-title="Bangladeshi channel" group-title="",Sangsad TV
+http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Bangla One
+https://video1.getstreamhosting.com:1936/eycqczsxka/eycqczsxka/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Logo-Global-Television.svg/revision/latest/scale-to-width-down/1000?cb=20260216155613"group-title="Bangladeshi channel" group-title="",Global TV
+http://sm-monirul.top/AyNa/play.php?id=0ac6af3d-acce-4d9d-9ce5-32d4b53f9326&e=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f1/Sangsad_TV_logo.png/revision/latest?cb=20210904041009"group-title="Bangladeshi channel" group-title="",Sangsad TV HD
+https://streams.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Bangla One
+https://video1.getstreamhosting.com:1936/eycqczsxka/eycqczsxka/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f1/Sangsad_TV_logo.png/revision/latest?cb=20210904041009"group-title="Bangladeshi channel" group-title="",Sangsad TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/songsodtv-world.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/7/71/Star_News_logo_2026.svg/revision/latest?cb=20260202044416"group-title="Bangladeshi channel" group-title="",Star news
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.mpd
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Islamic TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Deepto TV HD
+http://103.229.254.25:7001/play/a05r/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Anando TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Islamic TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/islamictvbd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/89/Jamuna_TV.png/revision/latest/scale-to-width-down/1000?cb=20231125051005"group-title="Bangladeshi channel" group-title="",Jamuna TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/89/Jamuna_TV.png/revision/latest/scale-to-width-down/1000?cb=20231125051005"group-title="Bangladeshi channel" group-title="",Jamuna TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Somoy_TV?file=Somoy_TV_logo.png"group-title="Bangladeshi channel",Somoy TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Somoy_TV?file=Somoy_TV_logo.png"group-title="Bangladeshi channel" group-title="",Somoy TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e8/Ekushey_Television_HD_logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20241009111045"group-title="Bangladeshi channel" group-title="",Ekusy TV HD
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e8/Ekushey_Television_HD_logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20241009111045"group-title="Bangladeshi channel" group-title="",Ekusy TV HD
+http://103.229.254.25:7001/play/a05x/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/NTV_logo_2003.png/revision/latest?cb=20210903091604"group-title="Bangladeshi channel" group-title="",NTV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/NTV_logo_2003.png/revision/latest?cb=20210903091604"group-title="Bangladeshi channel" group-title="",NTV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/revision/latest?cb=20260210174942"group-title="Bangladeshi channel" group-title="",GAZI TV HD
+http://103.229.254.25:7001/play/a06t/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/revision/latest?cb=20260210174942"group-title="Bangladeshi channel" group-title="",GAZI TV HD
+http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/revision/latest?cb=20260210174942"group-title="Bangladeshi channel" group-title="",GAZI TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e4/Channel_9_HD.png/revision/latest/scale-to-width-down/1000?cb=20230701115510"group-title="Bangladeshi channel" group-title="",Channel 9 TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e4/Channel_9_HD.png/revision/latest/scale-to-width-down/1000?cb=20230701115510"group-title="Bangladeshi channel" group-title="",Channel 9 TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e4/Channel_9_HD.png/revision/latest/scale-to-width-down/1000?cb=20230701115510"group-title="Bangladeshi channel" group-title="",Channel 9 TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/ChanneliBD.png/revision/latest?cb=20200206105403"group-title="Bangladeshi channel" group-title="",Channel I TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/ChanneliBD.png/revision/latest?cb=20200206105403"group-title="Bangladeshi channel" group-title="",Channel I TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/ChanneliBD.png/revision/latest?cb=20200206105403"group-title="Bangladeshi channel" group-title="",Channel I TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/Banglavision_HD.png/revision/latest?cb=20230512071222"group-title="Bangladeshi channel" group-title="",Bangla Vision TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/Banglavision_HD.png/revision/latest?cb=20230512071222"group-title="Bangladeshi channel" group-title="",Bangla Vision TV HD
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png/revision/latest?cb=20230512073857"group-title="Bangladeshi channel" group-title="",Masranga tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png/revision/latest?cb=20230512073857"group-title="Bangladeshi channel" group-title="",Masranga tv
+http://198.195.239.50:8095/atnBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png/revision/latest?cb=20230512073857"group-title="Bangladeshi channel" group-title="",Masranga HD
+http://103.229.254.25:7001/play/a05q/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ed/Duronto_TV_logo.png/revision/latest?cb=20230525082520"group-title="Bangladeshi channel" group-title="",Duranto HD
+http://103.229.254.25:7001/play/a05k/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/98/Deepto_TV_HD_logo.png/revision/latest?cb=20231121102247"group-title="Bangladeshi channel" group-title="",Deepto TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/98/Deepto_TV_HD_logo.png/revision/latest?cb=20231121102247"group-title="Bangladeshi channel" group-title="",Deepto TV HD
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/98/Deepto_TV_HD_logo.png/revision/latest?cb=20231121102247"group-title="Bangladeshi channel" group-title="",Deepto TV HD
+http://103.229.254.25:7001/play/a05r/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png"group-title="Bangladeshi channel" group-title="",NEWS24 TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png"group-title="Bangladeshi channel" group-title="",NEWS24 TV HD
+http://198.195.239.50:8095/News24/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Boishakhi_TV_logo.svg/revision/latest?cb=20260131185726"group-title="Bangladeshi channel" group-title="",Boishaki TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Boishakhi_TV_logo.svg/revision/latest?cb=20260131185726"group-title="Bangladeshi channel" group-title="",Boishaki TV HD
+http://103.229.254.25:7001/play/a067/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Boishakhi_TV_logo.svg/revision/latest?cb=20260131185726"group-title="Bangladeshi channel" group-title="",Boishaki TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png"group-title="Bangladeshi channel" group-title="",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/b7/Ananda_TV_logo.png/revision/latest?cb=20231121105100"group-title="Bangladeshi channel" group-title="",Anando TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Rtv_bangladesh.svg/revision/latest?cb=20250717111535"group-title="Bangladeshi channel" group-title="",RTV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Rtv_bangladesh.svg/revision/latest?cb=20250717111535"group-title="Bangladeshi channel" group-title="",RTV HD
+http://116.204.149.16/rtvhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Rtv_bangladesh.svg/revision/latest?cb=20250717111535"group-title="Bangladeshi channel" group-title="",RTV HD
+http://116.204.149.16/rtvhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Logo_of_Bijoy_TV_%282019%29.svg/revision/latest?cb=20260427150115"group-title="Bangladeshi channel" group-title="",Bijoy HD
+http://103.229.254.25:7001/play/a066/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png/revision/latest?cb=20230512073857"group-title="Bangladeshi channel" group-title="",Massranga HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Logo_of_ATN_Bangla.svg/revision/latest?cb=20260125210957"group-title="Bangladeshi channel" group-title="",ATN Bangla HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Logo_of_ATN_Bangla.svg/revision/latest?cb=20260125210957"group-title="Bangladeshi channel" group-title="",ATN Bangla HD
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Logo_of_ATN_Bangla.svg/revision/latest?cb=20260125210957"group-title="Bangladeshi channel" group-title="",ATN Bangla HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Logo_of_ATN_Bangla.svg/revision/latest?cb=20260125210957"group-title="Bangladeshi channel" group-title="",ATN Bangla HD
+http://sm-monirul.top/AyNa/play.php?id=9046949b-9847-4b5d-96c1-e82b0734444b&e=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/ATN_News_logo.svg"group-title="Bangladeshi channel" group-title="",ATN News HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/b9/DBC_News_HD.png/revision/latest/scale-to-width-down/1000?cb=20250713112132"group-title="Bangladeshi channel" group-title="",DBC News HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/b9/DBC_News_HD.png/revision/latest/scale-to-width-down/1000?cb=20250713112132"group-title="Bangladeshi channel" group-title="",DBC News HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0c/Independent_logo.svg/revision/latest?cb=20231121110710"group-title="Bangladeshi channel" group-title="",Independent News HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Asian_TV_HD_logo.png/revision/latest?cb=20210904044948"group-title="Bangladeshi channel" group-title="",Asian HD
+http://103.229.254.25:7001/play/a063/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Toroni 24 TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/toronitv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Independent_TV_(Bangladesh)?file=Independent_logo_2011.png"group-title="Bangladeshi channel" group-title="",Independent News HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bangla_TV_logo.svg/250px-Bangla_TV_logo.svg.png?_=20250120075616"group-title="Bangladeshi channel" group-title="",Bangla TV HD
+https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1779517520&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ef3501fc53c371cfbd5b28c398d02b60
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bangla_TV_logo.svg/250px-Bangla_TV_logo.svg.png?_=20250120075616"group-title="Bangladeshi channel" group-title="",Bangla TV HD
+http://luckonline.eu/live/y49sz6KMQs/6115263489/571.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bangla_TV_logo.svg/250px-Bangla_TV_logo.svg.png?_=20250120075616"group-title="Bangladeshi channel" group-title="",Bangla TV HD
+http://fastshare1.com:8080/live/Hussein456124/5478243659/3803.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Bangla_TV_logo.svg/250px-Bangla_TV_logo.svg.png?_=20250120075616"group-title="Bangladeshi channel" group-title="",Bangla TV HD
+http://116.204.149.16/banglatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/2/20/Green_TV_Logo.png/revision/latest?cb=20230525084236"group-title="Bangladeshi channel" group-title="",Green TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Desh_TV_2026_Logo.svg/revision/latest?cb=20260326144650"group-title="Bangladeshi channel" group-title="",DESH TV HD
+https://bozztv.com/rongo/rongo-DeshTV/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Desh_TV_2026_Logo.svg/revision/latest?cb=20260326144650"group-title="Bangladeshi channel" group-title="",DESH TV HD
+https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Desh_TV_2026_Logo.svg/revision/latest?cb=20260326144650"group-title="Bangladeshi channel" group-title="",DESH TV HD
+https://sm-monirul.top/toffee/play/desh_tv.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Desh_TV_2026_Logo.svg/revision/latest?cb=20260326144650"group-title="Bangladeshi channel" group-title="",DESH TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Desh_TV_2026_Logo.svg/revision/latest?cb=20260326144650"group-title="Bangladeshi channel" group-title="",DESH TV HD
+https://tvsen6.aynascope.net/deshtv/index.m3u8?e=1772212054&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=44919a8db7e3550797c68d87a0961769
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Desh_TV_2026_Logo.svg/revision/latest?cb=20260326144650"group-title="Bangladeshi channel" group-title="",DESH TV HD
+http://103.229.254.25:7001/play/a05s/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Desh_TV_2026_Logo.svg/revision/latest?cb=20260326144650"group-title="Bangladeshi channel" group-title="",DESH TV HD
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2566.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Desh_TV_2026_Logo.svg/revision/latest?cb=20260326144650"group-title="Bangladeshi channel" group-title="",DESH TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",R TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/82/Ekattor_TV_HD_2012.png/revision/latest?cb=20231121094023"group-title="Bangladeshi channel" group-title="",Ektattor TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/82/Ekattor_TV_HD_2012.png/revision/latest?cb=20231121094023"group-title="Bangladeshi channel" group-title="",Ektattor TV HD
+http://103.229.254.25:7001/play/a06f/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/82/Ekattor_TV_HD_2012.png/revision/latest?cb=20231121094023"group-title="Bangladeshi channel" group-title="",Ektattor TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/87/Nagorik_TV_logo.png/revision/latest?cb=20231121104316"group-title="Bangladeshi channel" group-title="",Nagorik TV HD
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/87/Nagorik_TV_logo.png/revision/latest?cb=20231121104316"group-title="Bangladeshi channel" group-title="",Nagorik TV HD
+http://luckonline.eu/live/y49sz6KMQs/6115263489/1118.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/87/Nagorik_TV_logo.png/revision/latest?cb=20231121104316"group-title="Bangladeshi channel" group-title="",Nagorik TV HD
+http://luckonline.eu/live/y49sz6KMQs/6115263489/1118.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/87/Nagorik_TV_logo.png/revision/latest?cb=20231121104316"group-title="Bangladeshi channel" group-title="",Nagorik TV HD
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/dd/Ekhon_TV_logo.png/revision/latest?cb=20231121093159"group-title="Bangladeshi channel" group-title="",Ekhn TV HD
+http://103.229.254.25:7001/play/a09k/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/dd/Ekhon_TV_logo.png/revision/latest?cb=20231121093159"group-title="Bangladeshi channel" group-title="",Ekhn TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/36/News24_HD_logo_03-2021.png/revision/latest/scale-to-width-down/1000?cb=20231125045758"group-title="Bangladeshi channel" group-title="",NEWs 21 TV HD
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg"group-title="Bangladeshi channel" group-title="",MY TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg"group-title="Bangladeshi channel" group-title="",MY TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png"group-title="Bangladeshi channel" group-title="",Nexus TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",SRK tv
+https://srkapp.ncare.live/flixhls/flixsrktv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Mohona_tv_Logo.svg/revision/latest?cb=20260419221006"group-title="Bangladeshi channel" group-title="",Mohona TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Mohona_tv_Logo.svg/revision/latest?cb=20260419221006"group-title="Bangladeshi channel" group-title="",Mohona TV HD
+https://playztv-apps.pages.dev/mohona-tv/index.m3u8
+#EXTINF:-1 tvg-logo=""https://www.lyngsat.com/logo/tv/aa/ananda-tv-bd.png""group-title="Bangladeshi channel" group-title="",Anando TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""https://www.lyngsat.com/logo/tv/aa/ananda-tv-bd.png""group-title="Bangladeshi channel" group-title="",Anando TV HD
+https://playztv-apps.pages.dev/ananda-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Asian_TV_HD_logo.png/revision/latest?cb=20210904044948"group-title="Bangladeshi channel" group-title="",Asian TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Logo-Global-Television.svg/revision/latest/scale-to-width-down/1000?cb=20260216155613"group-title="Bangladeshi channel" group-title="",Global TV
+http://luckonline.eu/live/y49sz6KMQs/6115263489/582.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Logo-Global-Television.svg/revision/latest/scale-to-width-down/1000?cb=20260216155613"group-title="Bangladeshi channel" group-title="",Global TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Asian_TV_HD_logo.png/revision/latest?cb=20210904044948"group-title="Bangladeshi channel" group-title="",Asian TV HD
+https://playztv-apps.pages.dev/asian-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/SATVBD.png/revision/latest?cb=20210921203452"group-title="Bangladeshi channel" group-title="",SA TV HD
+http://luckonline.eu/live/y49sz6KMQs/6115263489/559.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Asian_TV_HD_logo.png/revision/latest?cb=20210904044948"group-title="Bangladeshi channel" group-title="",Asian TV HD
+https://playztv-apps.pages.dev/asian-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Asian_TV_HD_logo.png/revision/latest?cb=20210904044948"group-title="Bangladeshi channel" group-title="",Asian TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Asian_TV_HD_logo.png/revision/latest?cb=20210904044948"group-title="Bangladeshi channel" group-title="",Asian TV HD
+https://mtlivestream.com/hls/asian/ytlive/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Bangla Beats TV HD
+https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/89/Jamuna_TV.png/revision/latest/scale-to-width-down/1000?cb=20231125051005"group-title="Bangladeshi channel" group-title="",JamunaTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/39/1/ntv-channel-logo-png_seeklogo-396286.png"group-title="Bangladeshi channel" group-title="",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/82/Ekattor_TV_HD_2012.png/revision/latest?cb=20231121094023"group-title="Bangladeshi channel" group-title="",Ekattor Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/NmAlifKhan/Channel-Icon/refs/heads/tv/sami-tv.png",Sami TV
+https://padmaonline.duckdns.org:8088/SamiTV/tracks-v1a1/mono.m3u8
+#EXTINF:-0 tvg-logo="https://padmaonline.duckdns.org/uploads/tv_image/sm/padma-cable-vision.jpg",PCV
+https://padmaonline.duckdns.org:8088/pcv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/82/Ekattor_TV_HD_2012.png/revision/latest?cb=20231121094023"group-title="Bangladeshi channel" group-title="",Ekattor Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/DeshTV2022Logo.svg"group-title="Bangladeshi channel" group-title="",DESH TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FRdJCwg/Rajdhani-Cable.png"group-title="Bangladeshi channel" group-title="",Rajdhani TV HD
+http://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Channel 1K
+https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",R Bangla MOVIE
+http://150.129.178.198:8086/0.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/36/News24_HD_logo_03-2021.png/revision/latest/scale-to-width-down/1000?cb=20231125045758"group-title="Bangladeshi channel" group-title="",NEWS 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",SAMI TV
+https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Bangla Plus
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Bangla_Vision_HD?file=Banglavision_HD.png"group-title="Bangladeshi channel" group-title="",Bangla Vision
+http://103.175.242.10:8080/banglavision/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Deepto_TV_HD?file=Deepto_TV_HD_logo.png"group-title="Bangladeshi channel" group-title="",DEPTO BANGLA HD
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",G-Series HD
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FRdJCwg/Rajdhani-Cable.png"group-title="Bangladeshi channel" group-title="",Rajdani tv HD
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Ayna tv HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",USB Television
+http://str24.l9574.com/510.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e8/Ekushey_Television_HD_logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20241009111045"group-title="Bangladeshi channel" group-title="",EKUSHEY TV HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA3BS2efe8497gpL6efDrMQA/m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Logo_of_My_TV_%28Bangladesh%29.svg"group-title="Bangladeshi channel" group-title="",MYTV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/fc/ATN_Bangla_HD.png/revision/latest/scale-to-width-down/1000?cb=20240806224409"group-title="Bangladeshi channel" group-title="",ATN BANGLAA
+http://38.96.178.201/live/ATNBangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/Banglavision_HD.png/revision/latest?cb=20230512071222"group-title="Bangladeshi channel" group-title="",Bangla Vision
+http://38.96.178.201/live/BanglaVision/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/Banglavision_HD.png/revision/latest?cb=20230512071222"group-title="Bangladeshi channel" group-title="",Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e8/DBC_News.png/revision/latest/scale-to-width-down/1000?cb=20231125050446"group-title="Bangladeshi channel" group-title="",DBC News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Eye TV
+https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e8/DBC_News.png/revision/latest/scale-to-width-down/1000?cb=20231125050446
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/Banglavision_HD.png/revision/latest?cb=20230512071222"group-title="Bangladeshi channel" group-title="",Bangla Vision
+http://stvlive.net:8080/banglavision/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c0/Banglavision_HD.png/revision/latest?cb=20230512071222"group-title="Bangladeshi channel" group-title="",Bangla Vision HD
+http://luckonline.eu/live/y49sz6KMQs/6115263489/554.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/NTV_logo_2003.png/revision/latest/scale-to-width-down/1000?cb=20210903091604"group-title="Bangladeshi channel" group-title="",NTV
+http://103.175.242.10:8080/ntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://padmaonline.duckdns.org/uploads/tv_image/sm/padma-cable-vision.jpg"group-title="Bangladeshi channel" group-title="",Padma Music
+https://padmaonline.duckdns.org:8088/pcv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Mon Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/montv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Magic Bangla
+http://mbanglatv.jolshabd.com:1935/live/mbanglatv/chunklist_w1542703515.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Padma channel
+https://padmaonline.duckdns.org:8088/pcv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",EP TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Mon Bangla
+http://115.187.41.216:8080/hls/montvbangla/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Galaxy TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Boishakhi_TV_logo.svg/revision/latest?cb=20260131185726"group-title="Bangladeshi channel" group-title="",Boishaki Tv
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e8/Ekushey_Television_HD_logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20241009111045"group-title="Bangladeshi channel" group-title="",Ekushey HD
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/89/Jamuna_TV.png/revision/latest/scale-to-width-down/1000?cb=20231125051005"group-title="Bangladeshi channel" group-title="",Jamuna 2
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Channel 1
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/09/Global_Television_HD.png/revision/latest?cb=20231121084454"group-title="Bangladeshi channel" group-title="",Global TVHD
+http://116.204.149.16/globaltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/09/Global_Television_HD.png/revision/latest?cb=20231121084454"group-title="Bangladeshi channel" group-title="",Global HD
+http://103.229.254.25:7001/play/a05o/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/dd/Ekhon_TV_logo.png/revision/latest?cb=20231121093159"group-title="Bangladeshi channel" group-title="",EKHON HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/09/Global_Television_HD.png/revision/latest?cb=20231121084454"group-title="Bangladeshi channel" group-title="",Global HD
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2587.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/09/Global_Television_HD.png/revision/latest?cb=20231121084454"group-title="Bangladeshi channel" group-title="",Global HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3c/Channel_S_logo.png/revision/latest/scale-to-width-down/1000?cb=20240903012927"group-title="Bangladeshi channel" group-title="",Channel S
+https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3c/Channel_S_logo.png/revision/latest/scale-to-width-down/1000?cb=20240903012927"group-title="Bangladeshi channel" group-title="",Channel S
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3c/Channel_S_logo.png/revision/latest/scale-to-width-down/1000?cb=20240903012927"group-title="Bangladeshi channel" group-title="",Channel S
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3c/Channel_S_logo.png/revision/latest/scale-to-width-down/1000?cb=20240903012927"group-title="Bangladeshi channel" group-title="",Channel S
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/NTV_logo_2003.png/revision/latest/scale-to-width-down/1000?cb=20210903091604"group-title="Bangladeshi channel" group-title="",Ntv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",SRK tv 3
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",SRK
+https://srkapp.ncare.live/flixhls/flixsrktv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3c/Channel_S_logo.png/revision/latest/scale-to-width-down/1000?cb=20240903012927"group-title="Bangladeshi channel" group-title="",Channel S
+https://app.ncare.live/live-orgin/channels.stream/playlist.m3u
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3c/Channel_S_logo.png/revision/latest/scale-to-width-down/1000?cb=20240903012927"group-title="Bangladeshi channel" group-title="",Channel S
+https://sm-monirul.top/toffee/play/channel_s.m3u8
+#EXTINF:-1 tvg-logo="https://unmochontv.com/wp-content/uploads/2026/01/Untitled-design-3-1-e1767343870887.png"group-title="Bangladeshi channel" group-title="",Unmochon tv
+https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Bangla_Vision_HD?file=Banglavision_HD.png"group-title="Bangladeshi channel" group-title="",Bangla Vision HD
+http://38.96.178.201/live/BanglaVision/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/revision/latest?cb=20260210174942""group-title="Bangladeshi channel" group-title="",Gazi Tv
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/revision/latest?cb=20260210174942""group-title="Bangladeshi channel" group-title="",Gazi Tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Channel_i_HD?file=Channel_i_HD_logo_2021.png"group-title="Bangladeshi channel" group-title="",Channel I
+http://38.96.178.201/live/ChannelI/index.m3u8
+#EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Channel_i_HD?file=Channel_i_HD_logo_2021.png"group-title="Bangladeshi channel" group-title="",Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Channel_i_HD?file=Channel_i_HD_logo_2021.png"group-title="Bangladeshi channel" group-title="",Channel I
+http://stvlive.net:8080/channeli/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Boishakhi_TV_HD_logo_2022.png/revision/latest/scale-to-width-down/1000?cb=20240326181306"group-title="Bangladeshi channel" group-title="",Boishaki TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",SATv
+http://38.96.178.201/live/SATV/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title=""RTV
+http://116.204.149.16/rtvhd/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title=""SOMOY TV HD
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",STV
+https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Star Bangla
+http://103.229.254.25:7001/play/a0eo/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sananda_TV.jpg/revision/latest?cb=20191221051538"group-title="Bangladeshi channel" group-title="",Sanonda Tv
+https://live.sanandatelevision.in/sananda/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sananda_TV.jpg/revision/latest?cb=20191221051538"group-title="Bangladeshi channel" group-title="",Sanonda Tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Zee_24_ghanta.png/revision/latest/scale-to-width-down/1000?cb=20210509174741"group-title="Bangladeshi channel" group-title="",Star Bangla
+https://amg01412-xiaomiasia-zee24ghantaa-xiaomi-cvo5n.amagi.tv/playlist/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/89/Jamuna_TV.png/revision/latest/scale-to-width-down/1000?cb=20231125051005"group-title="Bangladeshi channel" group-title="",Jamuna tv
+http://38.96.178.201/live/JamunaTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/89/Jamuna_TV.png/revision/latest/scale-to-width-down/1000?cb=20231125051005"group-title="Bangladeshi channel" group-title="",Jamuna tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/89/Jamuna_TV.png/revision/latest/scale-to-width-down/1000?cb=20231125051005"group-title="Bangladeshi channel" group-title="",Jamuna tv HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/89/Jamuna_TV.png/revision/latest/scale-to-width-down/1000?cb=20231125051005"group-title="Bangladeshi channel" group-title="",Jamuna tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/ATN_News_logo.svg/revision/latest?cb=20260127200826"group-title="Bangladeshi channel" group-title="",ATN NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/ATN_Bangla?file=Logo_of_ATN_Bangla.svg"group-title="Bangladeshi channel" group-title="",ATN Bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://bn.wikipedia.org/wiki/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%8F%E0%A6%96%E0%A6%A8_(%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2)_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg"group-title="Bangladeshi channel" group-title="",Ekhon Tv
+http://38.96.178.201/live/EkhonTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/82/Ekattor_TV_HD_2012.png/revision/latest?cb=20231121094023"group-title="Bangladeshi channel" group-title="",Ektattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/82/Ekattor_TV_HD_2012.png/revision/latest?cb=20231121094023"group-title="Bangladeshi channel" group-title="",Ektattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/960px-Jamuna_TV_logo.svg.png"group-title="Bangladeshi channel" group-title="",Jamuna TV 
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/ATN_News?file=ATN_News_logo.svg"group-title="Bangladeshi channel" group-title="",ATN NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",S Bangla 
+http://38.96.178.201/live/ChannelS/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/83/BTV_News_logo.png/revision/latest?cb=20250203145015"group-title="Bangladeshi channel" group-title="",BTV News
+http://38.96.178.201/live/BTV/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Mytv
+https://mytvbangla.com/0.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/revision/latest?cb=20260210174942"group-title="Bangladeshi channel" group-title="",Gazi tv
+https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Somoy_TV?file=Somoy_TV_logo.png"group-title="Bangladeshi channel" group-title="",Somoy Tv HD
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Somoy_TV?file=Somoy_TV_logo.png"group-title="Bangladeshi channel" group-title="",Somoy Tv HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Somoy_TV?file=Somoy_TV_logo.png"group-title="Bangladeshi channel" group-title="",Somoy Tv HD
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Boishaki TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",RTV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",ATN Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbanglauk-off.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",CB24
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cb24.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Movie Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",NTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ntvuk00332211.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",One TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boulive.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Ruposi Bangla TV
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Desh TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Alpona TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Anandabarta
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandabarta.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Global TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Hindi Hit Music
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/tehelkatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",GlaxyTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Mohona HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",GreenTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Jatv HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jatvbd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Ekattor TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekattor.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Jamuna TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Gazi TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",RuposiTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Noborup TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/noboruptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Milinium TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Sananda TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Eyetv HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eyetv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",DBC News HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/dbcnews.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Banglar Kontho TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/banglarkontho.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Asian TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",channel I
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channeli-8-org.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Channel 9
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Channel One
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Ayna TV 
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",NRB TV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nrb-eu.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",NexusTV HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",GlobalTVHD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",ChannelSHD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",AnandoTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",AsianTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",PrimeTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/primetv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla?file=Zee_bangla_hd.png"group-title="Indian Bangla Channel" group-title="",Zee Bangla
+https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla?file=Zee_bangla_hd.png"group-title="Indian Bangla Channel" group-title="",Zee Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114"group-title="Indian Bangla Channel" group-title="",Jalsha Movies HD
+http://103.229.254.25:7001/play/a0dt/index.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla?file=Zee_bangla_hd.png"group-title="Indian Bangla Channel" group-title="",Zee Bangla HD
+http://103.175.242.10:8080/zeebangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla?file=Zee_bangla_hd.png"group-title="Indian Bangla Channel" group-title="",Zee Bangla HD
+https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L1O7WqHTqUYgLki5XoveUtQ/ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114"group-title="Indian Bangla Channel" group-title="",Jalsa Movies
+http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114"group-title="Indian Bangla Channel" group-title="",Jalsa Movies
+http://stvlive.net:8080/jalshamovies/index.m3u8
+#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/fe/Jalsha_Movies_HD_logo_%282013-present%29.png/revision/latest?cb=20210423101024",Jalsha Movies
+https://padmaonline.duckdns.org:8088/JalshaMoviesHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",Star Jalsa 
+ttps://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",Colurs Bangla HD
+http://38.96.178.201/live/ColorsBangla/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",সানন্দা টিভি
+https://live.sanandatelevision.in/sananda/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",Enter Bangla 
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",ZB Bhakti
+https://server.zillarbarta.com/zbbhakti/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",ZB Caroon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",ZB CINEMA
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",ZB Music
+https://server.zillarbarta.com/zbmusic/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20240323184921"group-title="Indian Bangla Channel" group-title="",Khusbo Bangla
+https://cdn-4.pishow.tv/live/1473/master.m3u8 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20240323184921"group-title="Indian Bangla Channel" group-title="",Khusbo Bangla
+http://103.175.73.12:8080/live/375/375_0.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Dhoom_Music_new.jpeg/revision/latest?cb=20191218152121"group-title="Indian Bangla Channel" group-title="",Dhoom Bangla
+http://103.175.73.12:8080/live/378/378_0.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Indian Bangla Channel" group-title="",B4U_Bhojpuri
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla?file=Zee_bangla_hd.png"group-title="Indian Bangla Channel" group-title="",Zee Bangla
+http://103.175.242.10:8080/zeebangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Zee_Bangla_Cinema_%282025%29.svg/revision/latest?cb=20250609131201"group-title="Indian Bangla Channel" group-title="",ZEE BANGLA CINEMA 
+https://sm-monirul.top/toffee/play/zee_bangla_cinema.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Zee_Bangla_Cinema_%282025%29.svg/revision/latest?cb=20250609131201"group-title="Indian Bangla Channel" group-title="",ZEE BANGLA CINEMA 
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819"group-title="Indian Bangla Channel" group-title="",Songeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819"group-title="Indian Bangla Channel" group-title="",Songeet Bangla
+https://tiger-hub.vercel.app/Sangeet-Bangla/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg/revision/latest?cb=20200311191403"group-title="Indian Bangla Channel" group-title="",Enter Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla?file=Zee_bangla_hd.png"group-title="Indian Bangla Channel" group-title="",Zee Bangla HD
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20240323184921"group-title="Indian Bangla Channel" group-title="",Khusbo Bangla
+https://cdn-4.pishow.tv/live/1473/1473_2.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20240323184921"group-title="Indian Bangla Channel" group-title="",Khusbo Bangla
+https://cdn-4.pishow.tv/live/1473/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla Channel" group-title="",Star Jalsa HD
+http://198.195.239.50:8095/JalshaMovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla Channel" group-title="",Star Jalsa HD
+http://luckonline.eu/live/y49sz6KMQs/6115263489/534.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla Channel" group-title="",Star Jalsa HD
+http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla Channel" group-title="",Star Jalsa HD
+http://stvlive.net:8080/starjalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/bf/Sun_Bangla_logo_with_slogan_%282019%29.png/revision/latest/scale-to-width-down/1000?cb=20231205114413"group-title="Indian Bangla Channel" group-title="",Sun Bangla
+http://luckonline.eu/live/y49sz6KMQs/6115263489/3528.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/bf/Sun_Bangla_logo_with_slogan_%282019%29.png/revision/latest/scale-to-width-down/1000?cb=20231205114413"group-title="Indian Bangla Channel" group-title="",Sun Bangla
+http://103.180.212.191:3500/live/1669.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819"group-title="Indian Bangla Channel" group-title="",Songeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Colors_Bangla_2021.jpg/revision/latest?cb=20210831124610"group-title="Indian Bangla Channel" group-title="",Colours Bangla
+http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",R Bangla
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",Star Jalsa
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Tara_TV.jpeg/revision/latest?cb=20191222185921"group-title="Indian Bangla Channel" group-title="",Tara Bangla
+http://103.180.212.191:3500/live/1612.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png/revision/latest/scale-to-width-down/1000?cb=20210509201933"group-title="Indian Bangla Channel" group-title="", Zee BanglaHD
+https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png/revision/latest/scale-to-width-down/1000?cb=20210509201933"group-title="Indian Bangla Channel" group-title="",Zee BanglaHD2
+https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/20250901_094538.png/revision/latest?cb=20250901041641"group-title="Indian Bangla Channel" group-title="",Zee bangla cinema
+http://luckonline.eu/live/y49sz6KMQs/6115263489/538.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/20250901_094538.png/revision/latest?cb=20250901041641"group-title="Indian Bangla Channel" group-title="",Zee bangla cinema
+http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/20250901_094538.png/revision/latest?cb=20250901041641"group-title="Indian Bangla Channel" group-title="",Zee bangla Sonar
+http://103.49.70.113:5001/live/3476.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/20250901_094538.png/revision/latest?cb=20250901041641"group-title="Indian Bangla Channel" group-title="", Zee bangla cinema
+http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819"group-title="Indian Bangla Channel" group-title="",Songeet Bangla 2
+https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819"group-title="Indian Bangla Channel" group-title="",Songeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819"group-title="Indian Bangla Channel" group-title="",Songeet Bangla
+https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png/revision/latest?cb=20221023220726"group-title="Indian Bangla Channel" group-title="",Sony Athe
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png/revision/latest?cb=20221023220726"group-title="Indian Bangla Channel" group-title="",Sony Athe
+http://198.195.239.50:8095/SonyAath/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Zee_24_ghanta.png/revision/latest/scale-to-width-down/1000?cb=20210509174741"group-title="Indian Bangla Channel" group-title=""ZEE 24 Ghanta
+https://amg01412-xiaomiasia-zee24ghantaa-xiaomi-cvo5n.amagi.tv/playlist/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPU0QGXdK26qDG886gstiP5HQPY.jpg"group-title="Bangladeshi Movie new" group-title="",Projapati 2
+https://pixeldrain.dev/api/file/FFDiWJdp?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kydPBzuU4TSmDOXCkgAdVFF8sgU.jpg"group-title="Bangladeshi Movie new" group-title="",Peddi 2026
+https://minochinos.com/stream/DO0tWzL4gQ3aHOc1bKMW7Q/hjkrhuihghfvu/1781713714/41750024/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kydPBzuU4TSmDOXCkgAdVFF8sgU.jpg"group-title="Bangladeshi Movie new" group-title="",Peddi 2026
+https://pub-2d592ad939c2490a8552659d1c27056f.r2.dev/CINEFREAK.TOP%20-%20Peddi%20%282026%29%20HDTC%20%5BHindi%20LiNE-Telugu%5D%20HQ%201080p%20HC-ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kydPBzuU4TSmDOXCkgAdVFF8sgU.jpg"group-title="Bangladeshi Movie new" group-title="",Peddi 2026
+https://server2.g00file.space/download/NmEyMjIwYWJlMWZlZDRmMzUxNjM2YTQ2Lm1rdkAxMDMuMTMyLjkxLjc0QDE3ODE2ODQ4MDE1OTNAcnVTOU9EcGNxb0tYNHZpRWxBOWY2M0JDbU14dnRMWXRXdWE4Uzcyclc0Zz0=/MLSBD.Co-Peddi%20(2026)%20Dual%20Audio%20[Hindi%20Line-Telugu]%20HDTC%20H264%20AAC%201080p.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/bbVlVUS5KAO0XLKhSr5oNbbRXbG.jpg"group-title="Bangladeshi Movie new" group-title="",Priyotoma HD 2024
+https://pixeldra.in/api/file/8VGingRh?download
+#EXTINF:-1 tvg-logo="https://cinefreak.net/wp-content/uploads/2026/05/Rakkhosh-2026.webp"group-title="Bangladeshi Movie new" group-title="",Rakkhosh HD 2026
+https://pub-2d592ad939c2490a8552659d1c27056f.r2.dev/CINEFREAK.TOP%20-%20Rakkhosh%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
+#EXTINF:-1 tvg-logo="https://cinefreak.net/wp-content/uploads/2026/05/Bonolota-Express-2026-v2.webp"group-title="Bangladeshi Movie new" group-title="",Bonolota Express HD 2026
+https://pub-2d592ad939c2490a8552659d1c27056f.r2.dev/CINEFREAK.TOP%20-%20Bonolota%20Express%20%282026%29%20WEB-DL%20%5BBengali%5D%20RAW%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://cinefreak.net/wp-content/uploads/2026/05/Prince.webp"group-title="Bangladeshi Movie new" group-title="",Prince 2026
+https://pub-da46d0d88dea43618b59593cac12b3c8.r2.dev/CINEFREAK.TOP%20-%20Prince%20Once%20Upon%20a%20Time%20in%20Dhaka%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTjxfu1xrRoz5cTbxNcx7X6BA8.jpg"group-title="Bangladeshi Movie new" group-title="",Jana Nayagan (2026)
+https://pixeldrain.dev/api/file/xxqaDRPh?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79RBp8afL4u4z3nVGR78z6eIvBB.jpg"group-title="Bangladeshi Movie new" group-title="",Bhooth Bangla (2026)
+https://gdflix-com.tarih74323.workers.dev/3b12434c67de6ca00181c013401e8457432ca0aee0dbb1a7a6fa1ec5c29445b187478283fc1045ddffc0622a47419b4b64c801f7fbc006baaa9c41ed1747ce35bda74d8680edc1e9dee05c118c2fe3f92024e0d1a4d07bb95337e41e6abb98062ff283e726aafe24edcd32da30ac226ef2f874af6dbe4d9a9d71070b0ce3923d0c8b8bb79114402837ec92ce2fcc57d4bcfd2db7731023e73036750a26e8c68d35e85b01ad6c25c5fd2dc8a0e9af17ff::e53c74990e3656d97a3b9ea785d33ca0/MLSBD.Co-Bhooth%20Bangla%20(2026)%20Hindi%20Netflix%20WEB-DL%20H264%20AAC%201080p.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79RBp8afL4u4z3nVGR78z6eIvBB.jpg"group-title="Bangladeshi Movie new" group-title="",Bhooth Bangla (2026)
+https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Bhooth%20Bangla%20%282026%29%20WEB-DL%20%5BHindi%5D%20DS4K%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU4MGYwOTYtMTdlNi00YTI3LTlhMzctZGZlMmY5NGQ0NjZiXkEyXkFqcGc@._V1_SX300.jpg"group-title="Bangladeshi Movie new" group-title="",House Mates (2025)
+https://pixeldrain.dev/api/file/a7pPpsoR?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDkmxToe0sNQGNaur5pYWGWFXEX.jpg"group-title="Bangladeshi Movie new" group-title="",A Aa (2016)
+https://pub-c48f3bfcf6dd4e05a0c937bc88afc4a6.r2.dev/CINEFREAK.TOP%20-%20A%20Aa%20%282016%29%20WEB-DL%20%5BHindi-Telugu%5D%201080p%20ESub.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZlZDhlZDYtYzAxZi00YjVlLTgyZDQtMTlhZDlhYTkxMWZhXkEyXkFqcGc@._V1_SX300.jpg"group-title="Bangladeshi Movie new" group-title="",Angar (2016)
+https://pixeldrain.dev/api/file/JcRnZK5r?download
+#EXTINF:-1 tvg-logo="https://i.imgbd.org/poster_2i561764839790.jpg"group-title="Bangladeshi Movie new" group-title="",Antor atta 
+https://pixeldrain.com/api/file/EMJGivLB?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg"group-title="Bangladeshi Movie new" group-title="",Karuppu (2026) 
+https://pixeldrain.dev/api/file/A1FXDaT6?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg"group-title="Bangladeshi Movie new" group-title="",Karuppu (2026)
+https://pixeldrain.dev/api/file/xHL2TJjD?download
+#EXTINF:-1 tvg-logo="https://www.cinefreak.net/wp-content/uploads/2025/08/Dhumketu-2025.webp"group-title="Bangladeshi Movie new" group-title="",Dhumketu(2025)
+https://pixeldrain.dev/api/file/FNUmbZeA?download
+#EXTINF:-1 tvg-logo="https://www.cinefreak.net/wp-content/uploads/2025/08/Dhumketu-2025.webp"group-title="Bangladeshi Movie new" group-title="",Dhumketu(2025)
+https://pixeldrain.dev/api/file/kGboiuJi?download
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZlZDhlZDYtYzAxZi00YjVlLTgyZDQtMTlhZDlhYTkxMWZhXkEyXkFqcGc@._V1_SX300.jpg"group-title="Bangladeshi Movie new" group-title="",Angaar (2016)
+https://pixeldrain.dev/api/file/JcRnZK5r?download
+#EXTINF:-1 tvg-logo="https://cinefreak.net/wp-content/uploads/2026/05/Bonolota-Express-2026-v2.webp"group-title="Bangladeshi Movie new" group-title="",Bonolota Express HD 2026
+https://pixeldrain.dev/api/file/sSmLxZ2D?download
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWNjNWVmYmUtYWYxYS00NjZkLTliMzEtMjhkNTU2NTVkMDJhXkEyXkFqcGc@._V1_SX300.jpg"group-title="Bangladeshi Movie new" group-title="",Yashoda (2022)
+https://pixeldrain.dev/api/file/m5qRF2PK?download
+#EXTINF:-1 tvg-logo="https://cinefreak.net/wp-content/uploads/2026/05/Prince.webp"group-title="Bangladeshi Movie new" group-title="",Prince 2026
+https://pixeldrain.dev/api/file/EFevrz6e?download
+#EXTINF:-1 tvg-logo="https://cinefreak.net/wp-content/uploads/2026/05/Rakkhosh-2026.webp"group-title="Bangladeshi Movie new" group-title="",Rakkhosh HD 2026
+https://pixeldrain.dev/api/file/VMrYyvys?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6UXlejas8P2hpFTyXNWTSrRvO9p.jpg"group-title="Bangladeshi Movie new" group-title="",Avatar The Last Airbender (2026)
+https://pixeldrain.dev/api/file/k3JrNKnp?download
+#EXTINF:-1 tvg-logo=""group-title="Bangladeshi Movie new" group-title="",Ragu Dhakat
+https://pub-0697c8430d294939a2ea568386e55094.r2.dev/CINEFREAK.TOP%20-%20Raghu%20Dakat%20%282025%29%20HDTC%20%5BBengali%5D%201080p%20HC-ESub.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg"group-title="Bangladeshi Movie new" group-title="",Ustaad Bhagat Singh (2026)
+https://pixeldrain.dev/api/file/BHakUhxe?download
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Bhojpuri_cinema.png/revision/latest?cb=20210510074907"group-title="Bhojpuri Channel" group-title="",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Bhojpuri_cinema.png/revision/latest?cb=20210510074907"group-title="Bhojpuri Channel" group-title="",Bhojpuri Cinema
+https://cdn-4.pishow.tv/live/1033/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Bhojpuri_cinema.png/revision/latest?cb=20210510074907"group-title="Bhojpuri Channel" group-title="",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Bhojpuri Channel" group-title="",B4U Bhojpuri
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Bhojpuri Channel" group-title="",B4U Bhojpuri
+http://103.180.212.191:3500/live/1296.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Bhojpuri Channel" group-title="",B4U Bhojpuri
+http://103.175.73.12:8080/live/174/174_0.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sangeet_bhojpuri.png/revision/latest?cb=20210510105350"group-title="Bhojpuri Channel" group-title="",Songeet Bhojpuri
+https://mumt01.tangotv.in/SANGEETBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Bhojpuri Channel" group-title="",EPIC Bhojpuri
+http://103.180.212.191:3500/live/3384.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Bhojpuri Channel" group-title="",EPIC Bhojpuri
+https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Bhojpuri Channel" group-title="",EPIC Bhojpuri
+https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Oscar_movies_bhojpuri.png/revision/latest/scale-to-width-down/1000?cb=20210510102742"group-title="Bhojpuri Channel" group-title="",Oscar Movies Bhojpuri
+https://cdn-4.pishow.tv/live/233/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Bhojpuri Channel" group-title="",EPC Music
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sangeet_bhojpuri.png/revision/latest?cb=20210510105350"group-title="Bhojpuri Channel" group-title="",Songeet Bhojpuri
+https://cdn-4.pishow.tv/live/1293/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sangeet_bhojpuri.png/revision/latest?cb=20210510105350"group-title="Bhojpuri Channel" group-title="",Songeet Bhojpuri
+http://202.78.232.181:8090/live/playontv/playon@admin/201.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Filamchi_Bhojpuri_new.png/revision/latest?cb=20250626135709"group-title="Bhojpuri Channel" group-title="",filamchi bhojpuri
+http://103.78.149.54:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545"group-title="Hindi channel" group-title="",B4U Movie HD
+https://cdn-2.pishow.tv/live/419/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony Entertainment
+http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony Entertainment
+http://luckonline.eu/live/y49sz6KMQs/6115263489/593.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony Entertainment
+http://198.195.239.50:8095/SonyTv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908"group-title="Hindi channel" group-title="",Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908"group-title="Hindi channel" group-title="",Music India
+http://103.180.212.191:3500/live/250.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Zoom_2018.svg/revision/latest?cb=20191222193314"group-title="Hindi channel" group-title="",Zoom Music
+http://103.180.212.191:3500/live/592.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Shamaro gana
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434"group-title="Hindi channel" group-title="",9Xm Muic
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Hindi channel" group-title="",B4U Music HD
+http://103.175.73.12:8080/live/157/157_0.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Hindi channel" group-title="",B4U Music2
+https://cdn-2.pishow.tv/live/415/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max HD
+http://198.195.239.50:8095/SonyMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20231217022312"group-title="Hindi channel" group-title="",& and Picture
+https://tvsen6.aynascope.net/andpictureshd/index.m3u8?e=1768824041&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=33adc0b35373a37de26cb10d3ec7e91f
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20231217022312"group-title="Hindi channel" group-title="",& Picture
+http://103.157.248.140:8000/play/a01d/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20231217022312"group-title="Hindi channel" group-title="",& Picture
+http://luckonline.eu/live/y49sz6KMQs/6115263489/618.ts
+#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",South Station
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Star_Movies2009.png/revision/latest?cb=20230630132821"group-title="Hindi channel" group-title="",Star Movies HD
+http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Hindi Hit Songs HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Yrf Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony TV
+https://sm-monirul.top/toffee/play/sonyentertainmnt_hd.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818"group-title="Hindi channel" group-title="",B4U KADAK
+https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max 2 HD
+https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/index.m3u8?token=75774c836598e0a57208b0d12153c9cda14cb7ae-f845ead76deaa94e80b655e381b19bc5-1779244537-1779233737
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max HD
+http://103.99.249.139/sonymax/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max HD
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9440.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Star Gold
+http://198.195.239.50:8095/StarGold/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Goldmine Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",GOLDMINESBOLLYWOOD
+https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",All Time Movies
+https://tvsen6.aynaott.com/Dhinchaak/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colour Cinecomplex
+http://starshare.one:80/live/eduproaus11/gripping9information/98908.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colour Cinecomplex
+http://202.70.146.135:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colour Cinecomplex
+http://103.157.248.140:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colour Cinecomplex
+http://starshare.one:80/live/eduproaus11/gripping9information/98908.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colour Cinecomplex
+http://mhkzk.marv3lx.cfd:2095/live/002349094260671/4keic8d7d6d6/260704.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colour Cinecomplex HD
+http://luckonline.eu/live/y49sz6KMQs/6115263489/632.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colour Cinecomplex
+http://luckonline.eu/live/y49sz6KMQs/6115263489/632.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",SONY MAX
+http://198.195.239.50:8095/SonyMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",SONY MAX HD
+http://luckonline.eu/live/y49sz6KMQs/6115263489/1366.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zee_Cinema_HD_%282025%29.svg/revision/latest/scale-to-width-down/1000?cb=20250608061447"group-title="Hindi channel" group-title="",ZEE Cinema
+http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zee_Cinema_HD_%282025%29.svg/revision/latest/scale-to-width-down/1000?cb=20250608061447"group-title="Hindi channel" group-title="",ZEE Cinema
+http://luckonline.eu/live/y49sz6KMQs/6115263489/583.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zee_Cinema_HD_%282025%29.svg/revision/latest/scale-to-width-down/1000?cb=20250608061447"group-title="Hindi channel" group-title="",ZEE Cinema
+http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zee_Cinema_HD_%282025%29.svg/revision/latest/scale-to-width-down/1000?cb=20250608061447"group-title="Hindi channel" group-title="",ZEE Cinema
+http://41.223.30.230/ZEECINEMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Zee_Action_%282025%29.svg/revision/latest?cb=20250608132203"group-title="Hindi channel" group-title="",ZEE action
+http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Dangal Tv
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Goldmines tv
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Carton" group-title="",Srktv
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/960px-Nickelodeon_2023_logo.svg.png?_=20250829232756"group-title="Carton" group-title="",Nick bangla
+http://103.180.212.191:3500/live/1341.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/960px-Nickelodeon_2023_logo.svg.png?_=20250829232756"group-title="Carton" group-title="",Nick bangla
+http://luckonline.eu/live/y49sz6KMQs/6115263489/5011.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/960px-Nickelodeon_2023_logo.svg.png?_=20250829232756"group-title="Carton" group-title="",Nick Hindi
+http://103.49.70.113:5001/live/545.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/960px-Nickelodeon_2023_logo.svg.png?_=20250829232756"group-title="Carton" group-title="",Nick Hindi
+http://103.180.212.191:3500/live/1341.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png/revision/latest?cb=20250606121016"group-title="Carton" group-title="",Sonic Hindi
+http://103.180.212.191:3500/live/1345.m3u8
+#EXTINF:-1 tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png"group-title="Carton" group-title="",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Carton" group-title="",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg"group-title="Carton" group-title="",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/32/ZB_Cartoon.png/revision/latest?cb=20251223092359"group-title="Carton" group-title="",ZB Cartoon
+https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/32/ZB_Cartoon.png/revision/latest?cb=20251223092359"group-title="Carton" group-title="",ZB Cartoon
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/f6/Rongeen_TV_logo_%282019-present%29.png/revision/latest/scale-to-width-down/1000?cb=20210423103847"group-title="Carton" group-title="",RONGEEN TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png/revision/latest?cb=20250606121016"group-title="Carton" group-title="",Sonic Bangla
+http://103.49.70.113:5001/live/1345.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png/revision/latest?cb=20250606121016"group-title="Carton" group-title="",Sonic Bangla
+http://103.180.212.191:3500/live/1345.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport
+http://198.195.239.50:8095/Tsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest?cb=20240313194654"group-title="Sport Update" group-title="",Sport 1
+http://103.157.248.140:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest?cb=20240313194654"group-title="Sport Update" group-title="",Sport 1
+http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest?cb=20240313194654"group-title="Sport Update" group-title="",Sport 1
+http://119.156.228.231:9983/stream/channelid/1954196473
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest?cb=20240313194654"group-title="Sport Update" group-title="",Sport 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest?cb=20150719162835"group-title="Sport Update",Star Sport 2
+http://premimum.online/live/jen12345/jen54321/124281.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest?cb=20150719162835"group-title="Sport Update",Star Sport 2
+http://103.157.248.140:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest?cb=20150719162835"group-title="Sport Update",Star Sport 2
+http://premimum.online/live/jen12345/jen54321/124284.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Starsports3hd.png/revision/latest/scale-to-width-down/1000?cb=20200305070419"group-title="Sport Update",Star Sport 3
+http://premimum.online/live/jen12345/jen54321/114479.ts
+#EXTINF:-1 tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp"group-title="Sport Update",A Sport
+http://198.195.239.50:8095/Eurosport/index.m3u8
+#EXTINF:-1 tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp"group-title="Sport Update",A Sport
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3158.m3u8
+#EXTINF:-1 tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp"group-title="Sport Update",A Sport
+http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHo7MLT8FTbzAtUj5Z0SUpfE/m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport
+http://113.21.231.219:789/Tsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport8
+https://trs1.aynaott.com/tsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport9
+http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport
+http://103.179.25.147:8181/T-SPORTS-MADARCHOD/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport
+https://tv.beyondtaxconsultants.com/api/proxy?url=http://198.195.239.50:8095/tsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport
+http://113.21.231.219:789/Tsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport7
+http://luckonline.eu/live/y49sz6KMQs/6115263489/1136.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport
+http://198.195.239.50:8095/tsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Willow_Cricket_2023.svg/revision/latest?cb=20240926221831"group-title="Sport Update",Willow Sport
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport 6
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+#EXTINF:-1 tvg-logo=""group-title="Sport Update",Star 4K
+http://fastshare1.com:8080//live/25711345/late8airline/333368.ts
+#EXTINF:-1 tvg-logo=""group-title="Sport Update",FIFA World Cup 4K
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745269.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png/revision/latest?cb=20260609181225"group-title="Sport Update",FIFA World Cup 4K
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Zee_Bangla_Cinema_%282025%29.svg/revision/latest?cb=20250609131201"group-title="Sport Update",FIFA World Cup 4K
+http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
+http://fastshare1.com:8080//live/25711345/late8airline/52500.ts
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
+http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Ptvsportslogo2023.png/revision/latest?cb=20240716062958"group-title="Sport Update",PTV Sport
+http://198.195.239.50:8095/ptv/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
+http://ytoxw6un.ottclub.xyz/iptv/KCUHA6DGYYVA8ZZFUPQV3KZH/6408/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
+http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
+http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
+http://114.130.57.233:8080/Somoy-TV-3Mb/video.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K"group-title="Sport Update",FIFA World Cup 4K
+https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/TEN_Cricket.png/revision/latest?cb=20110926151853"group-title="Sport Update",Ten Sport
+http://luckonline.eu/live/y49sz6KMQs/6115263489/1372.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Travelxp.svg/revision/latest?cb=20260115081415"group-title="Documentary",Travel XP HD
+http://103.49.70.113:5001/live/164.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Travelxp.svg/revision/latest?cb=20260115081415"group-title="Documentary",Travel XP HD
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Travelxp.svg/revision/latest?cb=20260115081415"group-title="Documentary",Travel XP HD
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Travelxp.svg/revision/latest?cb=20260115081415"group-title="Documentary",Travel XP HD
+http://103.180.212.191:3500/live/562.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Discovery_HD_old.png/revision/latest?cb=20100126202109"group-title="Documentary",Discovery HD
+http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Discovery_HD_old.png/revision/latest?cb=20100126202109"group-title="Documentary",Discovery HD
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Discovery_HD_old.png/revision/latest?cb=20100126202109"group-title="Documentary",Discovery HD
+http://103.180.212.191:3500/live/3428.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203"group-title="Documentary",Discovery HD
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Lovenature2.png/revision/latest?cb=20250226152711"group-title="Documentary",Love Nature
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest?cb=20210825085349"group-title="Documentary",Animal Planet HD
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest?cb=20170701154034"group-title="Documentary",National Geography
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest?cb=20170701154034"group-title="Documentary",National Geography HD Bangla
+https://wildearth-plex.amagi.tv/master.m3u8
+
