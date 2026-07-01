@@ -214,8 +214,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/87/Nagorik_TV_logo.png/revision/latest?cb=20231121104316"group-title="Bangladeshi channel" group-title="",Nagorik TV HD
 http://luckonline.eu/live/y49sz6KMQs/6115263489/1118.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/87/Nagorik_TV_logo.png/revision/latest?cb=20231121104316"group-title="Bangladeshi channel" group-title="",Nagorik TV HD
-http://luckonline.eu/live/y49sz6KMQs/6115263489/1118.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/87/Nagorik_TV_logo.png/revision/latest?cb=20231121104316"group-title="Bangladeshi channel" group-title="",Nagorik TV HD
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/dd/Ekhon_TV_logo.png/revision/latest?cb=20231121093159"group-title="Bangladeshi channel" group-title="",Ekhn TV HD
 http://103.229.254.25:7001/play/a09k/index.m3u8
@@ -754,7 +752,7 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",GOLDMINESBOLLYWOOD
 https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",All Time Movies
-https://tvsen6.aynaott.com/Dhinchaak/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colour Cinecomplex
 http://starshare.one:80/live/eduproaus11/gripping9information/98908.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colour Cinecomplex
@@ -836,19 +834,15 @@ http://premimum.online/live/jen12345/jen54321/124284.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Starsports3hd.png/revision/latest/scale-to-width-down/1000?cb=20200305070419"group-title="Sport Update",Star Sport 3
 http://premimum.online/live/jen12345/jen54321/114479.ts
 #EXTINF:-1 tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp"group-title="Sport Update",A Sport
-http://198.195.239.50:8095/Eurosport/index.m3u8
-#EXTINF:-1 tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp"group-title="Sport Update",A Sport
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3158.m3u8
 #EXTINF:-1 tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp"group-title="Sport Update",A Sport
-http://103.112.62.111:80/play/n5so6d1haGfCinuCaFUXHo7MLT8FTbzAtUj5Z0SUpfE/m3u8
+http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3158.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport
-http://113.21.231.219:789/Tsports/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport8
-https://trs1.aynaott.com/tsports/index.m3u8
+http://fastshare1.com:8080//live/25711345/late8airline/52500.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport9
-http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport
-http://103.179.25.147:8181/T-SPORTS-MADARCHOD/index.m3u8
+http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport
 https://tv.beyondtaxconsultants.com/api/proxy?url=http://198.195.239.50:8095/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/6e/T_Sports_HD_logo_2021.png/revision/latest/scale-to-width-down/1000?cb=20231121101305"group-title="Sport Update",T sport
