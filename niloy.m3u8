@@ -352,6 +352,8 @@ http://38.96.178.201/live/BanglaVision/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/revision/latest?cb=20260210174942""group-title="Bangladeshi channel" group-title="",Gazi Tv
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/revision/latest?cb=20260210174942""group-title="Bangladeshi channel" group-title="",Gazi Tv
+http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/revision/latest?cb=20260210174942""group-title="Bangladeshi channel" group-title="",Gazi Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Channel_i_HD?file=Channel_i_HD_logo_2021.png"group-title="Bangladeshi channel" group-title="",Channel I
 http://38.96.178.201/live/ChannelI/index.m3u8
@@ -557,8 +559,14 @@ http://luckonline.eu/live/y49sz6KMQs/6115263489/3528.ts
 http://103.180.212.191:3500/live/1669.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819"group-title="Indian Bangla Channel" group-title="",Songeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Colors_Bangla_2021.jpg/revision/latest?cb=20210831124610"group-title="Indian Bangla Channel" group-title="",Colours Bangla
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla Channel" group-title="",Colours Bangla
 http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla Channel" group-title="",Colours Bangla
+http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",Colours Bangla
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Colors_Bangla_Cinema_logo_2024.png/revision/latest?cb=20240608182023"group-title="Indian Bangla Channel" group-title="",Colours Bangla
+http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",R Bangla
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",Star Jalsa
