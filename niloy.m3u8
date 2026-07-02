@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png"group-title="Bangladeshi channel" group-title="",BTV
-http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png"group-title="Bangladeshi channel" group-title="",BTV
 https://tv.beyondtaxconsultants.com/api/btv/btv.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png"group-title="Bangladeshi channel" group-title="",BTV
@@ -21,10 +21,6 @@ https://sm-monirul.top/toffee/play/bijoytv.m3u8
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/581.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Logo_of_Bijoy_TV_%282019%29.svg/revision/latest?cb=20260427150115"group-title="Bangladeshi channel" group-title="",Bijoy TV HD
 http://luckonline.eu/live/y49sz6KMQs/6115263489/581.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Logo_of_Bijoy_TV_%282019%29.svg/revision/latest?cb=20260427150115"group-title="Bangladeshi channel" group-title="",Bijoy TV HD
-https://sm-monirul.top/toffee/play/bijoytv.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Logo_of_Bijoy_TV_%282019%29.svg/revision/latest?cb=20260427150115"group-title="Bangladeshi channel" group-title="",Bijoy TV HD
-https://sm-monirul.top/toffee/play/bijoytv.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0b/Nexus_Television_HD_logo.png/revision/latest?cb=20241009111738"group-title="Bangladeshi channel" group-title="",Nexus TV HD
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9699.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0b/Nexus_Television_HD_logo.png/revision/latest?cb=20241009111738"group-title="Bangladeshi channel" group-title="",Nexus TV HD
@@ -183,7 +179,7 @@ http://103.229.254.25:7001/play/a05s/index.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/2566.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Desh_TV_2026_Logo.svg/revision/latest?cb=20260326144650"group-title="Bangladeshi channel" group-title="",DESH TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",R TV HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/5/5d/RTV_HD_2020.png/revision/latest/scale-to-width-down/1000?cb=20260529233502"group-title="Bangladeshi channel" group-title="",R TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/82/Ekattor_TV_HD_2012.png/revision/latest?cb=20231121094023"group-title="Bangladeshi channel" group-title="",Ektattor TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
@@ -213,9 +209,9 @@ https://srkapp.ncare.live/flixhls/flixsrktv.stream/tracks-v1a1/mono.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Mohona_tv_Logo.svg/revision/latest?cb=20260419221006"group-title="Bangladeshi channel" group-title="",Mohona TV HD
 https://playztv-apps.pages.dev/mohona-tv/index.m3u8
-#EXTINF:-1 tvg-logo=""https://www.lyngsat.com/logo/tv/aa/ananda-tv-bd.png""group-title="Bangladeshi channel" group-title="",Anando TV HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/b7/Ananda_TV_logo.png/revision/latest/scale-to-width-down/1000?cb=20231121105100"group-title="Bangladeshi channel" group-title="",Anando TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=""https://www.lyngsat.com/logo/tv/aa/ananda-tv-bd.png""group-title="Bangladeshi channel" group-title="",Anando TV HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/b7/Ananda_TV_logo.png/revision/latest/scale-to-width-down/1000?cb=20231121105100"group-title="Bangladeshi channel" group-title="",Anando TV HD
 https://playztv-apps.pages.dev/ananda-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Asian_TV_HD_logo.png/revision/latest?cb=20210904044948"group-title="Bangladeshi channel" group-title="",Asian TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
@@ -263,7 +259,7 @@ https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Bangla_Vision_HD?file=Banglavision_HD.png"group-title="Bangladeshi channel" group-title="",Bangla Vision
 http://103.175.242.10:8080/banglavision/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Movie Bangla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGpUkRc8rPe5mAYsLhsZtm6XaxAw8cVFB_mwHuWpWklg&s=10"group-title="Bangladeshi channel" group-title="",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Deepto_TV_HD?file=Deepto_TV_HD_logo.png"group-title="Bangladeshi channel" group-title="",DEPTO BANGLA HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
@@ -631,6 +627,8 @@ https://pub-c48f3bfcf6dd4e05a0c937bc88afc4a6.r2.dev/CINEFREAK.TOP%20-%20A%20Aa%2
 https://pixeldrain.dev/api/file/JcRnZK5r?download
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kq5FiswTgmWVPpmGGqbSHMbRR3O.jpg"group-title="Bangladeshi Movie new" group-title="",Antor atta 
 https://pixeldrain.com/api/file/EMJGivLB?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZAbPoVTMYrxFUSGG9hwaOUsZnW.jpg"group-title="Bangladeshi Movie new" group-title="",Tavvai (2026) 
+https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Tavvai%20%282026%29%20WEB-DL%20%5BHindi%5D%201080p%20ESub.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg"group-title="Bangladeshi Movie new" group-title="",Karuppu (2026) 
 https://pixeldrain.dev/api/file/A1FXDaT6?download
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg"group-title="Bangladeshi Movie new" group-title="",Karuppu (2026)
