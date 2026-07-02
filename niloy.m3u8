@@ -371,8 +371,6 @@ http://116.204.149.16/rtvhd/index.m3u8
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",STV
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Star Bangla
-http://103.229.254.25:7001/play/a0eo/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sananda_TV.jpg/revision/latest?cb=20191221051538"group-title="Bangladeshi channel" group-title="",Sanonda Tv
 https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sananda_TV.jpg/revision/latest?cb=20191221051538"group-title="Bangladeshi channel" group-title="",Sanonda Tv
@@ -507,11 +505,11 @@ https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L1O7WqHTqUYgLki5XoveUtQ/ts
 http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/fe/Jalsha_Movies_HD_logo_%282013-present%29.png/revision/latest?cb=20210423101024",Jalsha Movies
 https://padmaonline.duckdns.org:8088/JalshaMoviesHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",Star Jalsa 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla Channel" group-title="",Star Jalsa 
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sananda_TV.jpg/revision/latest?cb=20191221051538"group-title="Indian Bangla Channel" group-title="",সানন্দা টিভি
 https://live.sanandatelevision.in/sananda/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",Enter Bangla 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg/revision/latest?cb=20200311191403"group-title="Indian Bangla Channel" group-title="",Enter Bangla 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",ZB Bhakti
 https://server.zillarbarta.com/zbbhakti/index.m3u8
@@ -563,13 +561,13 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla Channel" group-title="",Colours Bangla
 http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",Colours Bangla
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla Channel" group-title="",Colours Bangla
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Colors_Bangla_Cinema_logo_2024.png/revision/latest?cb=20240608182023"group-title="Indian Bangla Channel" group-title="",Colours Bangla
 http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",R Bangla
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Republic-bangla.png/revision/latest/scale-to-width-down/1000?cb=20230126194444"group-title="Indian Bangla Channel" group-title="",R Bangla
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",Star Jalsa
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla Channel" group-title="",Star Jalsa
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Tara_TV.jpeg/revision/latest?cb=20191222185921"group-title="Indian Bangla Channel" group-title="",Tara Bangla
 http://103.180.212.191:3500/live/1612.m3u8
@@ -609,6 +607,10 @@ https://pixeldra.in/api/file/8VGingRh?download
 https://pub-2d592ad939c2490a8552659d1c27056f.r2.dev/CINEFREAK.TOP%20-%20Rakkhosh%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp9BHNvj/Bhanupriya-Bhooter-Hotel-2026-Bengali-Zee5-WEB-DL.jpg"group-title="Bangladeshi Movie new" group-title="",Bhanupriya Bhooter Hotel (2025)
 https://pixeldrain.dev/api/file/gSQEWbHG?download
+#EXTINF:-1 tvg-logo="https://images.moviebuff.com/39ce80e8-741f-49c6-966c-2f9b2a30fa48?w=1000"group-title="Bangladeshi Movie new" group-title="",Ami shudu cheyechi tumai
+https://pixeldrain.dev/api/file/iYSg6ohS?download
+#EXTINF:-1 tvg-logo="https://images.moviebuff.com/39ce80e8-741f-49c6-966c-2f9b2a30fa48?w=1000"group-title="Bangladeshi Movie new" group-title="",Ami shudu cheyechi tumai
+https://pixeldrain.dev/api/file/iHtRGNwr?download
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Y4ZdmxpS/703324511-1800441461143177-7253691363757455428-n.jpg"group-title="Bangladeshi Movie new" group-title="",Domm (2026)
 https://pixeldrain.dev/api/file/DmMX7enJ?download
 #EXTINF:-1 tvg-logo="https://cinefreak.net/wp-content/uploads/2026/05/Bonolota-Express-2026-v2.webp"group-title="Bangladeshi Movie new" group-title="",Bonolota Express HD 2026
