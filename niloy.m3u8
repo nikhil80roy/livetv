@@ -343,6 +343,8 @@ https://app.ncare.live/live-orgin/channels.stream/playlist.m3u
 https://sm-monirul.top/toffee/play/channel_s.m3u8
 #EXTINF:-1 tvg-logo="https://unmochontv.com/wp-content/uploads/2026/01/Untitled-design-3-1-e1767343870887.png"group-title="Bangladeshi channel" group-title="",Unmochon tv
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://unmochontv.com/wp-content/uploads/2026/01/Untitled-design-3-1-e1767343870887.png"group-title="Bangladeshi channel" group-title="",Unmochon tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/unmochon.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Bangla_Vision_HD?file=Banglavision_HD.png"group-title="Bangladeshi channel" group-title="",Bangla Vision HD
 http://38.96.178.201/live/BanglaVision/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Logo_of_GTV_%28Bangladesh%29.svg/revision/latest?cb=20260210174942""group-title="Bangladeshi channel" group-title="",Gazi Tv
