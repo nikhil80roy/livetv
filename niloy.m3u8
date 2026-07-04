@@ -515,8 +515,6 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 http://103.175.73.12:8080/live/375/375_0.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Dhoom_Music_new.jpeg/revision/latest?cb=20191218152121"group-title="Indian Bangla Channel" group-title="",Dhoom Bangla
 http://103.175.73.12:8080/live/378/378_0.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Indian Bangla Channel" group-title="",B4U_Bhojpuri
-https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla?file=Zee_bangla_hd.png"group-title="Indian Bangla Channel" group-title="",Zee Bangla
 http://103.175.242.10:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Zee_Bangla_Cinema_%282025%29.svg/revision/latest?cb=20250609131201"group-title="Indian Bangla Channel" group-title="",ZEE BANGLA CINEMA 
@@ -581,9 +579,7 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png/revision/latest?cb=20221023220726"group-title="Indian Bangla Channel" group-title="",Sony Athe
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png/revision/latest?cb=20221023220726"group-title="Indian Bangla Channel" group-title="",Sony Athe
-http://198.195.239.50:8095/SonyAath/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Zee_24_ghanta.png/revision/latest/scale-to-width-down/1000?cb=20210509174741"group-title="Indian Bangla Channel" group-title=""ZEE 24 Ghanta
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Zee_24_Ghanta_2025_Logo_2025.png/revision/latest/scale-to-width-down/1000?cb=20250608122308"group-title="Indian Bangla Channel" group-title=""ZEE 24 Ghanta
 https://amg01412-xiaomiasia-zee24ghantaa-xiaomi-cvo5n.amagi.tv/playlist/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tPU0QGXdK26qDG886gstiP5HQPY.jpg"group-title="Bangladeshi Movie new" group-title="",Projapati 2
 https://pixeldrain.dev/api/file/FFDiWJdp?download
