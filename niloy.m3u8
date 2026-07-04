@@ -22,6 +22,8 @@ https://sm-monirul.top/toffee/play/bijoytv.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Logo_of_Bijoy_TV_%282019%29.svg/revision/latest?cb=20260427150115"group-title="Bangladeshi channel" group-title="",Bijoy TV HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/581.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Logo_of_Bijoy_TV_%282019%29.svg/revision/latest?cb=20260427150115"group-title="Bangladeshi channel" group-title="",Bijoy TV HD
+https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Logo_of_Bijoy_TV_%282019%29.svg/revision/latest?cb=20260427150115"group-title="Bangladeshi channel" group-title="",Bijoy TV HD
 http://luckonline.eu/live/y49sz6KMQs/6115263489/581.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0b/Nexus_Television_HD_logo.png/revision/latest?cb=20241009111738"group-title="Bangladeshi channel" group-title="",Nexus TV HD
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9699.m3u8
@@ -239,8 +241,8 @@ https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
 http://150.129.178.198:8086/0.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/36/News24_HD_logo_03-2021.png/revision/latest/scale-to-width-down/1000?cb=20231125045758"group-title="Bangladeshi channel" group-title="",NEWS 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",SAMI TV
-https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/48/Sananda_TV_logo_%282011%29.png/revision/latest?cb=20210428083412"group-title="Bangladeshi channel" group-title="",Sananda TV
+http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Bangla_Vision_HD?file=Banglavision_HD.png"group-title="Bangladeshi channel" group-title="",Bangla Vision
@@ -713,12 +715,16 @@ http://luckonline.eu/live/y49sz6KMQs/6115263489/618.ts
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Star_Movies2009.png/revision/latest?cb=20230630132821"group-title="Hindi channel" group-title="",Star Movies HD
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/SONY_PIX_SD.png/revision/latest?cb=20221023221602"group-title="Hindi channel" group-title="",Sony Pix
+http://fastshare1.com/live/25711345/late8airline/9381.ts
 #EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Hindi Hit Songs HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Yrf Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony TV
 https://sm-monirul.top/toffee/play/sonyentertainmnt_hd.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Star_Movies2009.png/revision/latest?cb=20230630132821"group-title="Hindi channel" group-title="",Star Movies
+http://fastshare1.com/live/25711345/late8airline/98843.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818"group-title="Hindi channel" group-title="",B4U KADAK
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max 2 HD
@@ -726,9 +732,11 @@ https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/index.m3u8?token=75774c
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max HD
 http://103.99.249.139/sonymax/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max HD
+http://fastshare1.com/live/25711345/late8airline/9373.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max HD
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9440.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Star Gold
-http://198.195.239.50:8095/StarGold/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png/revision/latest?cb=20110928224035"group-title="Hindi channel" group-title="",Star Gold
+http://fastshare1.com/live/25711345/late8airline/9375.ts
 #EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Goldmine Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",GOLDMINESBOLLYWOOD
@@ -771,6 +779,8 @@ http://103.180.212.191:3500/live/1341.m3u8
 http://luckonline.eu/live/y49sz6KMQs/6115263489/5011.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/960px-Nickelodeon_2023_logo.svg.png?_=20250829232756"group-title="Carton" group-title="",Nick Hindi
 http://103.49.70.113:5001/live/545.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Motu-patlu-cover.jpg/revision/latest?cb=20180703174511"group-title="Carton" group-title="",Motu patlu logo
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/960px-Nickelodeon_2023_logo.svg.png?_=20250829232756"group-title="Carton" group-title="",Nick Hindi
 http://103.180.212.191:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png/revision/latest?cb=20250606121016"group-title="Carton" group-title="",Sonic Hindi
@@ -881,6 +891,12 @@ http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBa
 http://luckonline.eu/live/y49sz6KMQs/6115263489/1142.ts
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
 http://114.130.57.233:8080/Somoy-TV-3Mb/video.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/741567.ts
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
+http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745202.ts
 #EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K"group-title="Sport Update",FIFA World Cup 4K
 https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/TEN_Cricket.png/revision/latest?cb=20110926151853"group-title="Sport Update",Ten Sport
