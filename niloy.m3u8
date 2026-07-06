@@ -845,5 +845,5 @@ http://115.187.41.216:8080/hls/montvbangla/index.m3u8
 http://103.175.73.12:8080/live/157/157_0.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Music Channel"group-title="",B4U Music HD
 https://cdn-2.pishow.tv/live/415/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sangeet_Bangla_logo_2006.png/revision/latest?cb=20240322134434"group-title="group-title="Music Channel"group-title="",Songeet Bangla
+#EXTINF:-1 tvg-logo=""group-title="Music Channel"group-title="",Songeet Bangla HD
 https://cdn-4.pishow.tv/live/1143/master.m3u8
