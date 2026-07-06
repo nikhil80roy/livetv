@@ -633,10 +633,6 @@ https://cdn-4.pishow.tv/live/233/master.m3u8
 https://cdn-2.pishow.tv/live/419/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony Entertainment
 http://198.195.239.50:8095/SonyTv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Hindi channel" group-title="",B4U Music HD
-http://103.175.73.12:8080/live/157/157_0.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Hindi channel" group-title="",B4U Music2
-https://cdn-2.pishow.tv/live/415/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20231217022312"group-title="Hindi channel" group-title="",& Picture
 http://103.157.248.140:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",South Station
@@ -821,21 +817,21 @@ http://202.70.146.135:8000/play/a05o/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Music Channel" group-title="",Hindi Hit Songs
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908"group-title="Music Channel"group-title="",Music India
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908"group-title="Music Channel" group-title="",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908"group-title="Music Channel"group-title="",Music India
 http://103.180.212.191:3500/live/250.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Zoom_2018.svg/revision/latest?cb=20191222193314"group-title="Music Channel"group-title="",Zoom Music
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Zoom_2018.svg/revision/latest?cb=20191222193314"group-title="Music Channel" group-title="",Zoom Music
 http://103.180.212.191:3500/live/592.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Music Channel" group-title="",Shamaro gana
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434"group-title="Music Channel"group-title="",,9Xm Music
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434"group-title="Music Channel"group-title="",9Xm Music
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Music Channel"group-title="",EPC Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sangeet_bhojpuri.png/revision/latest?cb=20210510105350"group-title="Music Channel"group-title="",Songeet Bhojpuri
 https://cdn-4.pishow.tv/live/1293/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Music Channel" group-title="",ZB Music
+#EXTINF:-1 tvg-logo=""group-title="Music Channel"group-title="",ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Music Channel"group-title="",Hindi Hit song HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/tehelkatv.stream/tracks-v1a1/mono.m3u8
@@ -843,3 +839,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Music Channel"group-title="",Mon Bangla
 http://115.187.41.216:8080/hls/montvbangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Music Channel"group-title="",B4U Music HD
+http://103.175.73.12:8080/live/157/157_0.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Music Channel"group-title="",B4U Music HD
+https://cdn-2.pishow.tv/live/415/master.m3u8
