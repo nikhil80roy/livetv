@@ -875,9 +875,9 @@ https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Music Channel"group-title="",ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
-#EXTINF:-1 tvg-logo="blob:https://gemini.google.com/77467729-987d-495b-8a01-d4f4026d7e85"group-title="Music Channel"group-title="",Hindi Hit song HD
+#EXTINF:-1 tvg-logo="https://kommodo.ai/i/vRRTMVS0rHicN8ASNdoT"group-title="Music Channel"group-title="",Hindi Hit song HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/tehelkatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="blob:https://gemini.google.com/77467729-987d-495b-8a01-d4f4026d7e85"group-title="Music Channel"group-title="",Mon Bangla
+#EXTINF:-1 tvg-logo="https://kommodo.ai/i/IsewDuxfUg3XHd4tcIH4"group-title="Music Channel"group-title="",Mon Bangla
 http://115.187.41.216:8080/hls/montvbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Music Channel"group-title="",B4U Music HD
 http://103.175.73.12:8080/live/157/157_0.m3u8
