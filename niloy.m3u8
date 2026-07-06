@@ -252,8 +252,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://mbanglatv.jolshabd.com:1935/live/mbanglatv/chunklist_w1542703515.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",EP TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Mon Bangla
-http://115.187.41.216:8080/hls/montvbangla/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Galaxy TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Boishakhi_TV_logo.svg/revision/latest?cb=20260131185726"group-title="Bangladeshi channel" group-title="",Boishaki Tv
@@ -463,8 +461,6 @@ https://server.zillarbarta.com/zbbhakti/index.m3u8
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",ZB CINEMA
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",ZB Music
-https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20240323184921"group-title="Indian Bangla Channel" group-title="",Khusbo Bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20240323184921"group-title="Indian Bangla Channel" group-title="",Khusbo Bangla
@@ -477,10 +473,6 @@ http://103.175.242.10:8080/zeebangla/tracks-v1a1/mono.m3u8
 https://sm-monirul.top/toffee/play/zee_bangla_cinema.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Zee_Bangla_Cinema_%282025%29.svg/revision/latest?cb=20250609131201"group-title="Indian Bangla Channel" group-title="",ZEE BANGLA CINEMA 
 http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819"group-title="Indian Bangla Channel" group-title="",Songeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819"group-title="Indian Bangla Channel" group-title="",Songeet Bangla
-https://tiger-hub.vercel.app/Sangeet-Bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg/revision/latest?cb=20200311191403"group-title="Indian Bangla Channel" group-title="",Enter Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla?file=Zee_bangla_hd.png"group-title="Indian Bangla Channel" group-title="",Zee Bangla HD
@@ -535,12 +527,6 @@ http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
 http://103.49.70.113:5001/live/3476.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/20250901_094538.png/revision/latest?cb=20250901041641"group-title="Indian Bangla Channel" group-title="", Zee bangla cinema
 http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819"group-title="Indian Bangla Channel" group-title="",Songeet Bangla 2
-https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819"group-title="Indian Bangla Channel" group-title="",Songeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819"group-title="Indian Bangla Channel" group-title="",Songeet Bangla
-https://mumt05.tangotv.in/SANGEETBANGLA/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png/revision/latest?cb=20221023220726"group-title="Indian Bangla Channel" group-title="",Sony Athe
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Zee_24_Ghanta_2025_Logo_2025.png/revision/latest/scale-to-width-down/1000?cb=20250608122308"group-title="Indian Bangla Channel" group-title=""ZEE 24 Ghanta
@@ -635,8 +621,6 @@ https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
 http://103.180.212.191:3500/live/1296.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/B4u_bhojpuri_no_slo.png/revision/latest?cb=20210509203321"group-title="Bhojpuri Channel" group-title="",B4U Bhojpuri
 http://103.175.73.12:8080/live/174/174_0.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sangeet_bhojpuri.png/revision/latest?cb=20210510105350"group-title="Bhojpuri Channel" group-title="",Songeet Bhojpuri
-https://mumt01.tangotv.in/SANGEETBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Bhojpuri Channel" group-title="",EPIC Bhojpuri
 http://103.180.212.191:3500/live/3384.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Bhojpuri Channel" group-title="",EPIC Bhojpuri
@@ -645,26 +629,10 @@ https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Oscar_movies_bhojpuri.png/revision/latest/scale-to-width-down/1000?cb=20210510102742"group-title="Bhojpuri Channel" group-title="",Oscar Movies Bhojpuri
 https://cdn-4.pishow.tv/live/233/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Bhojpuri Channel" group-title="",EPC Music
-https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sangeet_bhojpuri.png/revision/latest?cb=20210510105350"group-title="Bhojpuri Channel" group-title="",Songeet Bhojpuri
-https://cdn-4.pishow.tv/live/1293/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sangeet_bhojpuri.png/revision/latest?cb=20210510105350"group-title="Bhojpuri Channel" group-title="",Songeet Bhojpuri
-http://202.78.232.181:8090/live/playontv/playon@admin/201.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545"group-title="Hindi channel" group-title="",B4U Movie HD
 https://cdn-2.pishow.tv/live/419/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony Entertainment
 http://198.195.239.50:8095/SonyTv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908"group-title="Hindi channel" group-title="",Music India
-https://cdn-2.pishow.tv/live/226/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908"group-title="Hindi channel" group-title="",Music India
-http://103.180.212.191:3500/live/250.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Zoom_2018.svg/revision/latest?cb=20191222193314"group-title="Hindi channel" group-title="",Zoom Music
-http://103.180.212.191:3500/live/592.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Shamaro gana
-https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434"group-title="Hindi channel" group-title="",9Xm Music
-https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Hindi channel" group-title="",B4U Music HD
 http://103.175.73.12:8080/live/157/157_0.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Hindi channel" group-title="",B4U Music2
@@ -677,10 +645,6 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/SONY_PIX_SD.png/revision/latest?cb=20221023221602"group-title="Hindi channel" group-title="",Sony Pix
 https://stream.ottplus.bd/live/pix_hd_abr/live/sony_pix_hd_720/chunks.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Hindi Hit Songs HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Yrf Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnqcjPoamH4rryKDZazc2T3yjzaT01O_kzBAe-s2xqmA&s=10"group-title="Hindi channel" group-title="",Sheemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony TV
@@ -853,4 +817,29 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-15
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest?cb=20170701154034"group-title="Documentary",National Geography
 http://202.70.146.135:8000/play/a05o/index.m3u8
-
+#EXTINF:-1 tvg-logo=""group-title="Music Channel" group-title="",Yrf Music
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Music Channel" group-title="",Hindi Hit Songs
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908"group-title="Music Channel"group-title="",Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908"group-title="Music Channel"group-title="",Music India
+http://103.180.212.191:3500/live/250.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Zoom_2018.svg/revision/latest?cb=20191222193314"group-title="Music Channel"group-title="",Zoom Music
+http://103.180.212.191:3500/live/592.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Music Channel" group-title="",Shamaro gana
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434"group-title="Music Channel"group-title="",,9Xm Music
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Music Channel"group-title="",EPC Music
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sangeet_bhojpuri.png/revision/latest?cb=20210510105350"group-title="Music Channel"group-title="",Songeet Bhojpuri
+https://cdn-4.pishow.tv/live/1293/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Music Channel" group-title="",ZB Music
+https://server.zillarbarta.com/zbmusic/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Music Channel"group-title="",Hindi Hit song HD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/tehelkatv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819"group-title="Music Channel"group-title="",Songeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Music Channel"group-title="",Mon Bangla
+http://115.187.41.216:8080/hls/montvbangla/index.m3u8
