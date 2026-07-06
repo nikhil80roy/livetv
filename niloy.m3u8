@@ -663,14 +663,12 @@ http://103.180.212.191:3500/live/250.m3u8
 http://103.180.212.191:3500/live/592.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Shamaro gana
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434"group-title="Hindi channel" group-title="",9Xm Muic
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434"group-title="Hindi channel" group-title="",9Xm Music
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Hindi channel" group-title="",B4U Music HD
 http://103.175.73.12:8080/live/157/157_0.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Hindi channel" group-title="",B4U Music2
 https://cdn-2.pishow.tv/live/415/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20231217022312"group-title="Hindi channel" group-title="",& and Picture
-https://tvsen6.aynascope.net/andpictureshd/index.m3u8?e=1768824041&u=f908a6a4-d002-43ac-bdda-ae9c17c44a48&token=33adc0b35373a37de26cb10d3ec7e91f
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20231217022312"group-title="Hindi channel" group-title="",& Picture
 http://103.157.248.140:8000/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",South Station
@@ -733,7 +731,7 @@ http://103.180.212.191:3500/live/1341.m3u8
 http://luckonline.eu/live/y49sz6KMQs/6115263489/5011.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/960px-Nickelodeon_2023_logo.svg.png?_=20250829232756"group-title="Carton" group-title="",Nick Hindi
 http://103.49.70.113:5001/live/545.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Motu-patlu-cover.jpg/revision/latest?cb=20180703174511"group-title="Carton" group-title="",Motu patlu logo
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/Motu-patlu-cover.jpg/revision/latest?cb=20180703174511"group-title="Carton" group-title="",Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Nickelodeon_2023_logo.svg/960px-Nickelodeon_2023_logo.svg.png?_=20250829232756"group-title="Carton" group-title="",Nick Hindi
 http://103.180.212.191:3500/live/1341.m3u8
@@ -761,12 +759,16 @@ http://41.205.93.154/STARSPORTS1/index.m3u8
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3158.m3u8
 #EXTINF:-1 tvg-logo="https://a-sports.tv/assets/img/logo/A-Sports-Logo-final.webp"group-title="Sport Update",A Sport
 http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3158.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png/revision/latest?cb=20260609181225"group-title="Sport Update",FIFA World Cup
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports
 http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Willow_Cricket_2023.svg/revision/latest?cb=20240926221831"group-title="Sport Update",Willow Sport
 http://27.124.71.27/Willow_Extra/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png/revision/latest?cb=20260609181225"group-title="Sport Update",FIFA World Cup
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Star_Sports_4K.jpg/revision/latest?cb=20250620091828"group-title="Sport Update",Star 4K
 http://fastshare1.com:8080//live/25711345/late8airline/333368.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png/revision/latest?cb=20260609181225"group-title="Sport Update",FIFA World Cup 4K
@@ -825,8 +827,6 @@ http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/741567.ts
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/745202.ts
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
 https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/TEN_Cricket.png/revision/latest?cb=20110926151853"group-title="Sport Update",Ten Sport
-http://luckonline.eu/live/y49sz6KMQs/6115263489/1372.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Travelxp.svg/revision/latest?cb=20260115081415"group-title="Documentary",Travel XP HD
 http://103.49.70.113:5001/live/164.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Travelxp.svg/revision/latest?cb=20260115081415"group-title="Documentary",Travel XP HD
@@ -849,6 +849,6 @@ https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest?cb=20170701154034"group-title="Documentary",National Geography
 https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest?cb=20170701154034"group-title="Documentary",National Geography HD Bangla
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest?cb=20170701154034"group-title="Documentary",National Geography
 http://202.70.146.135:8000/play/a05o/index.m3u8
 
