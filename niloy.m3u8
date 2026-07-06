@@ -863,7 +863,7 @@ http://103.175.73.12:8080/live/158/158_0.m3u8
 http://103.180.212.191:3500/live/250.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Zoom_2018.svg/revision/latest?cb=20191222193314"group-title="Music Channel" group-title="",Zoom Music
 http://103.180.212.191:3500/live/592.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Music Channel" group-title="",Shamaro gana
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Shemaroo_2018.svg/revision/latest?cb=20200503071600"group-title="Music Channel" group-title="",Shamaro gana
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9xm_red.svg/revision/latest?cb=20210508163434"group-title="Music Channel"group-title="",9xm Music
 https://9xjio.wiseplayout.com/9XM/master.m3u8
@@ -875,9 +875,9 @@ https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Music Channel"group-title="",ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Music Channel"group-title="",Hindi Hit song HD
+#EXTINF:-1 tvg-logo="blob:https://gemini.google.com/77467729-987d-495b-8a01-d4f4026d7e85"group-title="Music Channel"group-title="",Hindi Hit song HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/tehelkatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Music Channel"group-title="",Mon Bangla
+#EXTINF:-1 tvg-logo="blob:https://gemini.google.com/77467729-987d-495b-8a01-d4f4026d7e85"group-title="Music Channel"group-title="",Mon Bangla
 http://115.187.41.216:8080/hls/montvbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Music Channel"group-title="",B4U Music HD
 http://103.175.73.12:8080/live/157/157_0.m3u8
