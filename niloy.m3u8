@@ -7,6 +7,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-vid
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg/revision/latest?cb=20240806023450"group-title="Bangladeshi channel" group-title="",BTV
 http://198.195.239.50:8095/btv/video.m3u8
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png"group-title="Bangladeshi channel" group-title="",BTV
+http://103.151.60.162:2121/play/a013/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg/revision/latest?cb=20240806023450"group-title="Bangladeshi channel" group-title="",BTV
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Channel_1_Logo_Bangladesh.svg/revision/latest?cb=20260205224305"group-title="Bangladeshi channel" group-title="",Channel 1
@@ -769,6 +771,8 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/3158.m3u8
 http://114.130.57.233:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/T_Sports_logo.svg/revision/latest?cb=20260518141553"group-title="Sport Update",T Sports
+http://103.165.93.31:8095/tsports/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Willow_Cricket_2023.svg/revision/latest?cb=20240926221831"group-title="Sport Update",Willow Sport
 http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYswI3rBh-ntGlN2g_QsMUGe8-vHDEY0MixhASXBaN&s=10"group-title="Sport Update",Sky Sport cricket
@@ -779,6 +783,8 @@ http://fastshare1.com:8080//live/25711345/late8airline/333368.ts
 http://fastshare1.com/live/25711345/late8airline/751354.ts
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",Caze TV FIFA World Cup 4K
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
 http://fastshare1.com:8080//live/25711345/late8airline/422.ts
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",,United 8 sport 1 HD 
