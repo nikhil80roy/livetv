@@ -834,9 +834,15 @@ http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBa
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",Somoy FIFA world Cup
 http://114.130.57.233:8080/Somoy-TV-3Mb/video.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",United 8 sport 1 HD
-http://starhub.pro/live/farhat-3379/67897-913379/741567.ts
+http://starhub.pro/live/farhat-3379/67897-913379/741567.ts.
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",United 8 sport 1 HD
+http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",United 8 sport 1 HD
 http://fastshare1.com/live/1Aoen7elp5/IgMJ60tmAa/741567.ts
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",United 8 sport 1 HD
+http://103.151.60.162:2121/play/a0f8/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",Fox Sports HD
+http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",United 8 sport 1 HD
 http://103.165.93.31:8095/unt-s/video.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",United 8 sport 1 HD
