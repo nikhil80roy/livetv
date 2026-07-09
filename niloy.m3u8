@@ -903,7 +903,7 @@ https://wildearth-plex.amagi.tv/master.m3u8
 http://202.70.146.135:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/YRF_Music_2007.svg/revision/latest?cb=20260131220607"group-title="Music Channel" group-title="",Yrf Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Music Channel" group-title="",Hindi Hit Songs
+#EXTINF:-1 tvg-logo="https://img.sanishtech.com/u/971ad7b1001982c8ce8b6f34a3d0efb6.png"group-title="Music Channel" group-title="",Hindi Hit Songs
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Music_India.jpeg/revision/latest?cb=20191221070908"group-title="Music Channel" group-title="",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
@@ -933,7 +933,7 @@ https://server.zillarbarta.com/zbmusic/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/tehelkatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://img.sanishtech.com/u/971ad7b1001982c8ce8b6f34a3d0efb6.png"group-title="Music Channel"group-title="",Hindi Hit song HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-logo="https://kommodo.ai/i/IsewDuxfUg3XHd4tcIH4"group-title="Music Channel"group-title="",Mon Bangla
+#EXTINF:-1 tvg-logo="https://img.sanishtech.com/u/2218021304309f2ed0a6a7316e8f7dd4.jpg"group-title="Music Channel"group-title="",Mon Bangla
 http://115.187.41.216:8080/hls/montvbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Music Channel"group-title="",B4U Music HD
 http://103.175.73.12:8080/live/157/157_0.m3u8
