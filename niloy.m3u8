@@ -533,8 +533,8 @@ http://mysave23.com/live/PeH5kPWFfG/infamous7funny/271038.ts
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla Channel" group-title="",Colours Bangla
 https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20240324135511"group-title="Indian Bangla Channel" group-title="",Colours Bangla Cinema
+http://66.102.126.10:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla Channel" group-title="",Colours Bangla HD
 https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla Channel" group-title="",Colours Bangla HD
@@ -881,6 +881,8 @@ https://cc-czbq30x55knit.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://xfireflix.my.id/mac.php?id=908684.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Discovery_HD_old.png/revision/latest?cb=20100126202109"group-title="Documentary",Discovery HD
 http://103.180.212.191:3500/live/3428.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Discovery_HD_old.png/revision/latest?cb=20100126202109"group-title="Documentary",Discovery HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203"group-title="Documentary",Discovery HD
 https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Lovenature2.png/revision/latest?cb=20250226152711"group-title="Documentary",Love Nature
