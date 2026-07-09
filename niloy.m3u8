@@ -740,6 +740,8 @@ http://luckonline.eu/live/y49sz6KMQs/6115263489/583.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zee_Cinema_HD_%282025%29.svg/revision/latest/scale-to-width-down/1000?cb=20250608061447"group-title="Hindi channel" group-title="",ZEE Cinema
 http://103.99.249.139/zeecinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zee_Cinema_HD_%282025%29.svg/revision/latest/scale-to-width-down/1000?cb=20250608061447"group-title="Hindi channel" group-title="",ZEE Cinema
+http://103.159.180.34:5001/live/165.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zee_Cinema_HD_%282025%29.svg/revision/latest/scale-to-width-down/1000?cb=20250608061447"group-title="Hindi channel" group-title="",ZEE Cinema
 https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zee_Cinema_HD_%282025%29.svg/revision/latest/scale-to-width-down/1000?cb=20250608061447"group-title="Hindi channel" group-title="",ZEE Cinema
 http://41.223.30.230/ZEECINEMA/index.m3u8
@@ -934,7 +936,7 @@ https://cdn-2.pishow.tv/live/415/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/db/Sangeet_Bangla_logo_%282025%29.png/revision/latest?cb=20250601224743"group-title="Music Channel"group-title="",Songeet Bangla HD
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/db/Sangeet_Bangla_logo_%282025%29.png/revision/latest?cb=20250601224743"group-title="Music Channel"group-title="",Songeet Bangla HD
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1458371
+http://103.175.73.12:8080/live/379/379_0.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Dhoom_Music_new.jpeg/revision/latest?cb=20191218152121"group-title="Music Channel"group-title="",Dhoom Music
 http://103.175.73.12:8080/live/378/378_0.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Dhoom_Music_new.jpeg/revision/latest?cb=20191218152121"group-title="Music Channel"group-title="",Dhoom Music
