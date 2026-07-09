@@ -9,6 +9,8 @@ https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 http://198.195.239.50:8095/btv/video.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png"group-title="Bangladeshi channel" group-title="",BTV
 http://103.151.60.162:2121/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMliqzNq_TmgDH6T-bEEAh0beLBMm7AIN6Xo_S3c-o2w&s=10"group-title="Bangladeshi channel" group-title="",Timetv USa
+https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/BTV_HD_Logo.svg/revision/latest?cb=20240806023450"group-title="Bangladeshi channel" group-title="",BTV
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Channel_1_Logo_Bangladesh.svg/revision/latest?cb=20260205224305"group-title="Bangladeshi channel" group-title="",Channel 1
