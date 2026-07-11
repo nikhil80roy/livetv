@@ -545,6 +545,8 @@ https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108781
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla Channel" group-title="",Colours Bangla
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/225712.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla Channel" group-title="",Colours Bangla HD
+https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Republic-bangla.png/revision/latest/scale-to-width-down/1000?cb=20230126194444"group-title="Indian Bangla Channel" group-title="",R Bangla
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla Channel" group-title="",Star Jalsa
@@ -569,6 +571,8 @@ http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png/revision/latest?cb=20221023220726"group-title="Indian Bangla Channel" group-title="",Sony Athe
 http://live.balajibroadband.com:3500/live/697.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png/revision/latest?cb=20221023220726"group-title="Indian Bangla Channel" group-title="",Sony Athe
+https://live.shamim-iptv.workers.dev/SONYATTH.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png/revision/latest?cb=20221023220726"group-title="Indian Bangla Channel" group-title="",Sony Athe
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108839
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Zee_24_Ghanta_2025_Logo_2025.png/revision/latest/scale-to-width-down/1000?cb=20250608122308"group-title="Indian Bangla Channel" group-title=""ZEE 24 Ghanta
