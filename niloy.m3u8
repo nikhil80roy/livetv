@@ -889,6 +889,8 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",FIFA World Cup 4K
+http://mysave23.com/live/PeH5kPWFfG/infamous7funny/745270.ts
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",Somoy FIFA world Cup
 http://114.130.57.233:8080/Somoy-TV-3Mb/video.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/512x512/fifa-world-cup-2026.9737ad74.png"group-title="Sport Update",United 8 sport 1 HD
@@ -969,6 +971,8 @@ http://103.159.180.34:5001/live/585.m3u8
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sangeet_bhojpuri.png/revision/latest?cb=20210510105350"group-title="Music Channel"group-title="",Songeet Bhojpuri
 https://cdn-4.pishow.tv/live/1293/master.m3u8
+#EXTINF:-1 tvg-logo="https://img.sanishtech.com/u/7c82295bc7ebae6375eb4bac35ed037d.jpg"group-title="Music Channel"group-title="",Dewana song HD
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXlZxYUbsmGZHQvxOtsVe7o63AbZEKbXvQ3y7IZsCfQ&s=10"group-title="Music Channel"group-title="",ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zffJ09c7/Screenshot-2026-07-09-162324.png"group-title="Music Channel"group-title="",Hindi Hit song HD
