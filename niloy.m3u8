@@ -477,7 +477,7 @@ https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L1O7WqHTqUYgLki5XoveUtQ/ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114"group-title="Indian Bangla Channel" group-title="",Jalsa Movies
 https://aboxbdix-main-server.mdabdullahsheikh017-924.workers.dev/live/nested?url=https%3A%2F%2Flinux-desktop-production-cf5b.up.railway.app%2Fjalsha-movies%2Ftracks-v1a1%2Fmono.m3u8
 #EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/fe/Jalsha_Movies_HD_logo_%282013-present%29.png/revision/latest?cb=20210423101024",Jalsha Movies
-https://padmaonline.duckdns.org:8088/JalshaMoviesHD/tracks-v1a1/mono.m3u8
+https://aboxbdix-main-server.mdabdullahsheikh017-924.workers.dev/live/nested?url=https%3A%2F%2Flinux-desktop-production-cf5b.up.railway.app%2Fjalsha-movies%2Ftracks-v1a1%2Fmono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla Channel" group-title="",Star Jalsa 
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sananda_TV.jpg/revision/latest?cb=20191221051538"group-title="Indian Bangla Channel" group-title="",সানন্দা টিভি
