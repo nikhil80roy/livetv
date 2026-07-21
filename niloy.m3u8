@@ -418,42 +418,28 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/primetv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla?file=Zee_bangla_hd.png"group-title="Indian Bangla Channel" group-title="",Zee Bangla
 https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla?file=Zee_bangla_hd.png"group-title="Indian Bangla Channel" group-title="",Zee Bangla
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla?file=Zee_bangla_hd.png"group-title="Indian Bangla Channel" group-title="",Zee Bangla HD
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114"group-title="Indian Bangla Channel" group-title="",Jalsha Movies HD
-http://103.229.254.25:7001/play/a0dt/index.m3u8
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla?file=Zee_bangla_hd.png"group-title="Indian Bangla Channel" group-title="",Zee Bangla HD
-http://103.175.242.10:8080/zeebangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla?file=Zee_bangla_hd.png"group-title="Indian Bangla Channel" group-title="",Zee Bangla HD
-https://lifetvbd.xyz:8880/play/_IHuWmwwlQ7tot9J5av1L1O7WqHTqUYgLki5XoveUtQ/ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20240320100114"group-title="Indian Bangla Channel" group-title="",Jalsa Movies
-https://aboxbdix-main-server.mdabdullahsheikh017-924.workers.dev/live/nested?url=https%3A%2F%2Flinux-desktop-production-cf5b.up.railway.app%2Fjalsha-movies%2Ftracks-v1a1%2Fmono.m3u8
-#EXTINF:-0 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/fe/Jalsha_Movies_HD_logo_%282013-present%29.png/revision/latest?cb=20210423101024",Jalsha Movies
-https://aboxbdix-main-server.mdabdullahsheikh017-924.workers.dev/live/nested?url=https%3A%2F%2Flinux-desktop-production-cf5b.up.railway.app%2Fjalsha-movies%2Ftracks-v1a1%2Fmono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla Channel" group-title="",Star Jalsa 
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/425.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla Channel" group-title="",Star Jalsa HD 
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sananda_TV.jpg/revision/latest?cb=20191221051538"group-title="Indian Bangla Channel" group-title="",সানন্দা টিভি
 https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg/revision/latest?cb=20200311191403"group-title="Indian Bangla Channel" group-title="",Enter Bangla 
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",ZB Bhakti
+#EXTINF:-1 tvg-logo="https://cdn.technettv.com/channel/30948/logo_256.jpeg"group-title="Indian Bangla Channel" group-title="",ZB Bhakti
 https://server.zillarbarta.com/zbbhakti/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",ZB Caroon
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/edfaebe9084c7a7c494b0e61a48aad39.png"group-title="Indian Bangla Channel" group-title="",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",ZB CINEMA
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/a96c24ed5d20a7b2f59edd67970d85f4.png"group-title="Indian Bangla Channel" group-title="",ZB CINEMA
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20240323184921"group-title="Indian Bangla Channel" group-title="",Khusbo Bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20240323184921"group-title="Indian Bangla Channel" group-title="",Khusbo Bangla
-http://103.175.73.12:8080/live/375/375_0.m3u8
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla?file=Zee_bangla_hd.png"group-title="Indian Bangla Channel" group-title="",Zee Bangla
-http://103.175.242.10:8080/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Bangla?file=Zee_bangla_hd.png"group-title="Indian Bangla Channel" group-title="",Zee Bangla
 https://stream.ottplus.live/live/zee_bangla_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Zee_Bangla_Cinema_%282025%29.svg/revision/latest?cb=20250609131201"group-title="Indian Bangla Channel" group-title="",ZEE BANGLA CINEMA HD 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Zee_Bangla_Cinema_%282025%29.svg/revision/latest?cb=20250609131201"group-title="Indian Bangla Channel" group-title="",ZEE BANGLA CINEMA 
-http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg/revision/latest?cb=20200311191403"group-title="Indian Bangla Channel" group-title="",Enter Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Enterr10_Bangla.jpg/revision/latest?cb=20200311191403"group-title="Indian Bangla Channel" group-title="",Enter Bangla
@@ -465,31 +451,13 @@ https://cdn-4.pishow.tv/live/1473/1473_2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png/revision/latest/scale-to-width-down/1000?cb=20240323184921"group-title="Indian Bangla Channel" group-title="",Khusbo Bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla Channel" group-title="",Star Jalsa HD
-http://luckonline.eu/live/y49sz6KMQs/6115263489/534.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla Channel" group-title="",Star Jalsa HD
-http://kst.moonplex.net:8080/CH3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla Channel" group-title="",Star Jalsa HD
-http://stvlive.net:8080/starjalsha/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla Channel" group-title="",Star Jalsa HD
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/bf/Sun_Bangla_logo_with_slogan_%282019%29.png/revision/latest/scale-to-width-down/1000?cb=20231205114413"group-title="Indian Bangla Channel" group-title="",Sun Bangla
-http://luckonline.eu/live/y49sz6KMQs/6115263489/3528.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/bf/Sun_Bangla_logo_with_slogan_%282019%29.png/revision/latest/scale-to-width-down/1000?cb=20231205114413"group-title="Indian Bangla Channel" group-title="",Sun Bangla
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Sun_Bangla_HD_logo_2023.png/revision/latest?cb=20240324143411"group-title="Indian Bangla Channel" group-title="",Sun Bangla
 http://103.180.212.191:3500/live/1669.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/bf/Sun_Bangla_logo_with_slogan_%282019%29.png/revision/latest/scale-to-width-down/1000?cb=20231205114413"group-title="Indian Bangla Channel" group-title="",Sun Bangla
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20240324135511"group-title="Indian Bangla Channel" group-title="",Colours Bangla Cinema
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/271038.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/Sangeet_Bangla_2025.png/revision/latest?cb=20250610095819"group-title="Indian Bangla Channel" group-title="",Songeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla Channel" group-title="",Colours Bangla
-http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla Channel" group-title="",Colours Bangla
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/225740.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla Channel" group-title="",Colours Bangla
-http://180.94.28.28:8097//COLORS-BANGLA/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla Channel" group-title="",Colours Bangla
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20240324135511"group-title="Indian Bangla Channel" group-title="",Colours Bangla Cinema
-http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20240324135511"group-title="Indian Bangla Channel" group-title="",Colours Bangla Cinema
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/271038.ts
 #EXTINF:-1 tvg-logo=""group-title="Indian Bangla Channel" group-title="",Bang Plus+ HD
@@ -499,12 +467,6 @@ https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20240324135511"group-title="Indian Bangla Channel" group-title="",Colours Bangla Cinema
 http://66.102.126.10:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla Channel" group-title="",Colours Bangla HD
-https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla Channel" group-title="",Colours Bangla HD
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108781
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla Channel" group-title="",Colours Bangla
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/225712.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Colors_Bangla_logo.svg/revision/latest?cb=20260520141450"group-title="Indian Bangla Channel" group-title="",Colours Bangla HD
 https://live.shamim-iptv.workers.dev/COLORSBANGLAHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Republic-bangla.png/revision/latest/scale-to-width-down/1000?cb=20230126194444"group-title="Indian Bangla Channel" group-title="",R Bangla
 https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
@@ -512,20 +474,8 @@ https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Tara_TV.jpeg/revision/latest?cb=20191222185921"group-title="Indian Bangla Channel" group-title="",Tara Bangla
 http://103.180.212.191:3500/live/1612.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png/revision/latest/scale-to-width-down/1000?cb=20210509201933"group-title="Indian Bangla Channel" group-title="", Zee BanglaHD
-https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Zee_bangla_hd.png/revision/latest/scale-to-width-down/1000?cb=20210509201933"group-title="Indian Bangla Channel" group-title="",Zee BanglaHD2
-https://tvsen3.aynaott.com/PNEb3v2q6GBk/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/20250901_094538.png/revision/latest?cb=20250901041641"group-title="Indian Bangla Channel" group-title="",Zee bangla cinema
-http://luckonline.eu/live/y49sz6KMQs/6115263489/538.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/20250901_094538.png/revision/latest?cb=20250901041641"group-title="Indian Bangla Channel" group-title="",Zee bangla cinema
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/20250901_094538.png/revision/latest?cb=20250901041641"group-title="Indian Bangla Channel" group-title="",Zee bangla cinema
-http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/20250901_094538.png/revision/latest?cb=20250901041641"group-title="Indian Bangla Channel" group-title="",Zee bangla Sonar
-http://103.49.70.113:5001/live/3476.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/20250901_094538.png/revision/latest?cb=20250901041641"group-title="Indian Bangla Channel" group-title="", Zee bangla cinema
-http://198.195.239.50:8095/ZeeBanglaCinema/index.m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png/revision/latest?cb=20221023220726"group-title="Indian Bangla Channel" group-title="",Sony Athe
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Aakashaath_blue.png/revision/latest/scale-to-width-down/1000?cb=20210509111354"group-title="Indian Bangla Channel" group-title="",Akash Ath
