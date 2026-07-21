@@ -617,7 +617,7 @@ https://cdn-4.pishow.tv/live/233/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545"group-title="Hindi channel" group-title="",B4U Movie HD
 https://cdn-2.pishow.tv/live/419/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony Entertainment
-http://monirul.bro.bd/sm/live.php?id=sony_entertainmnt_hd&e=.m3u8
+https://go.skym3u.top/w3ke.m3u?channel=aHR0cDovL3R2LmNsb3VkY2RuLm1lOjgwL2xpdmUudHM_Y2hhbm5lbElkPTE5MyZ1aWQ9MTUzMDEmZGV2aWNlTWFjPTAwOjFBOjc5OjA0OjU1OkM0
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony Entertainment
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/9885.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Shemaroo_TV.svg/revision/latest?cb=20200430025535"group-title="Hindi channel" group-title="",Shemaroo tv
@@ -662,14 +662,18 @@ http://119.156.228.231:9983/stream/channelid/1052904367
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png/revision/latest?cb=20110928224035"group-title="Hindi channel" group-title="",Star Gold
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/9375.ts
-#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Goldmine Movies
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg/revision/latest?cb=20220401125831"group-title="Hindi channel" group-title="",Goldmine Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Goldmine Movies
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png/revision/latest/scale-to-width-down/1000?cb=20230126170355"group-title="Hindi channel" group-title="",Goldmine Movies
 http://103.121.61.218/tmp_hls/e07413354875be01a996dc560274708e/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",GOLDMINESBOLLYWOOD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg/revision/latest?cb=20220401125831"group-title="Hindi channel" group-title="",GOLDMINESBOLLYWOOD
 https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",All Time Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD5srAuyyXf0ZTF2WZ3ZUh438DnsQXj3aquv1nVrBxBQ&s=10"group-title="Hindi channel" group-title="",All Time Movies
 https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colors Complex
+https://go.skym3u.top/w3ke.m3u?channel=aHR0cDovL2dvbGRlbnByby54eXo6ODAvSkxLUkdVRi9QUjlBNzI1LzEwMjAxNjY
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Colors_Cineplex.png/revision/latest?cb=20200105090606"group-title="Hindi channel" group-title="",Colors Complex
+https://go.skym3u.top/w3ke.m3u?channel=aHR0cDovL2dvbGRlbnByby54eXo6ODAvSkxLUkdVRi9QUjlBNzI1LzcyNTEy
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/Zee_Cinema_HD_%282025%29.svg/revision/latest/scale-to-width-down/1000?cb=20250608061447"group-title="Hindi channel" group-title="",Zee Cinema HD
 https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/65/Zee_Action_%282025%29.svg/revision/latest?cb=20250608132203"group-title="Hindi channel" group-title="",Zee Action
@@ -696,8 +700,6 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 http://103.180.212.191:3500/live/1341.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Nickelodeon_Sonic_logo_2025.png/revision/latest?cb=20250606121016"group-title="Carton" group-title="",Sonic Hindi
 http://103.180.212.191:3500/live/1345.m3u8
-#EXTINF:-1 tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png"group-title="Carton" group-title="",Jungle Book
-https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png"group-title="Carton" group-title="",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg"group-title="Carton" group-title="",SRK TV
