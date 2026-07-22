@@ -21,6 +21,8 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9699.m3u8
 https://tvsen6.aynaott.com/nexustv/index.m3u8?e=1779508651&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=60c87b004defff784ce04ab2b4c05e98
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0b/Nexus_Television_HD_logo.png/revision/latest?cb=20241009111738"group-title="Bangladeshi channel" group-title="",Nexus TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/0b/Nexus_Television_HD_logo.png/revision/latest?cb=20241009111738"group-title="Bangladeshi channel" group-title="",Nexus TV HD
+https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyBuR94fqDBtJhnuOBkea_3DbkyjG5lWaUNdEKCz6XdA&s"group-title="Bangladeshi channel" group-title="",Bortoman TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/bartomantv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Biswa Bangla 24
@@ -452,6 +454,10 @@ https://cdn-4.pishow.tv/live/1473/1473_2.m3u8
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla Channel" group-title="",Star Jalsa HD
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/8540.ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla Channel" group-title="",Star Jalsa HD
+http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63525
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Jalsha_HD_2019_Chalo_Paltai.png/revision/latest?cb=20240319075624"group-title="Indian Bangla Channel" group-title="",Star Jalsa HD
+http://tvsen7.aynascope.net/sjhdbd/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Sun_Bangla_HD_logo_2023.png/revision/latest?cb=20240324143411"group-title="Indian Bangla Channel" group-title="",Sun Bangla
 http://103.180.212.191:3500/live/1669.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20240324135511"group-title="Indian Bangla Channel" group-title="",Colours Bangla Cinema
@@ -625,7 +631,7 @@ https://cdn-4.pishow.tv/live/233/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545"group-title="Hindi channel" group-title="",B4U Movie HD
 https://cdn-2.pishow.tv/live/419/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony Entertainment
-https://go.skym3u.top/w3ke.m3u?channel=aHR0cDovL3R2LmNsb3VkY2RuLm1lOjgwL2xpdmUudHM_Y2hhbm5lbElkPTE5MyZ1aWQ9MTUzMDEmZGV2aWNlTWFjPTAwOjFBOjc5OjA0OjU1OkM0
+https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony Entertainment
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/9885.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Shemaroo_TV.svg/revision/latest?cb=20200430025535"group-title="Hindi channel" group-title="",Shemaroo tv
@@ -645,7 +651,7 @@ http://119.156.228.231:9983/stream/channelid/954608593
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnqcjPoamH4rryKDZazc2T3yjzaT01O_kzBAe-s2xqmA&s=10"group-title="Hindi channel" group-title="",Sheemaroo Bollywood
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony TV
-http://monirul.bro.bd/sm/live.php?id=sony_entertainmnt_hd&e=.m3u8
+https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Star_Movies2009.png/revision/latest?cb=20230630132821"group-title="Hindi channel" group-title="",Star Movies
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/979.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818"group-title="Hindi channel" group-title="",B4U KADAK
@@ -665,9 +671,11 @@ http://tv.dgtv.xyz:8080/live/shanto4455/01974264455/9440.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max HD
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max HD
-http://119.156.228.231:9983/stream/channelid/1052904367
+https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max HD
 https://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png/revision/latest/scale-to-width-down/1000?cb=20221026151354"group-title="Hindi channel" group-title="",Sony Max2 HD
+https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Sony_SAB_HD_2022.jpg/revision/latest?cb=20260311075842"group-title="Hindi channel" group-title="",Sony SAB HD
 https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png/revision/latest?cb=20110928224035"group-title="Hindi channel" group-title="",Star Gold
