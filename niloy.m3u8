@@ -972,3 +972,172 @@ http://103.175.73.12:8080/live/378/378_0.m3u8
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108813
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Dhoom_Music_new.jpeg/revision/latest?cb=20191218152121"group-title="Music Channel"group-title="",English Songs
 http://hz1.teleport.cc/HLS/HD.m3u8  
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Zee Cinama HD
+http://172.31.169.168:8080/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=36c031cfdadd81d1f1e83dbc258967756e5179fa-b69769dbf53b2e1d46a97d545a8d84df-1784896944-1784886144
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Star Gold HD
+http://172.31.169.168:8080/StarGoldHD/tracks-v1a1/mono.m3u8?token=e7cefc87bddbe4e925e2af23d31b58ed06a2ce18-6cb4c05897fd910be9654c9b51687fdb-1784896938-1784886138
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",United 8 Sports
+http://172.31.169.168:8080/UNITE8Sports1/tracks-v1a1/mono.m3u8?token=fdb083c384e35ba99e073e37e2e1ca2777163def-26241a26e6ff7841b231e1dbe35fe45c-1784896931-1784886131
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Star Sports 2
+http://172.31.169.168:8080/StarSportsSelect2/tracks-v1a1/mono.m3u8?token=99576cb7390c8e67a728136a9d55c76f0e7e6b0c-433dffb9a2e2dabebc1221aa6789e1da-1784896929-1784886129
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Star Sports 1 HD
+http://172.31.169.168:8080/StarSportsSelect1/tracks-v1a1/mono.m3u8?token=e62a8b614c1f0649e5f650e215a2a29ea49c9936-87a7d8321b8a3f2796f554d767f52091-1784896927-1784886127
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Star sports 2 HD
+http://172.31.169.168:8080/StarSports2HD/tracks-v1a1/mono.m3u8?token=34ab47d4762a2e4dc2cc96a1537c30664c067022-dd55c32f5ae6e7a9ba435ceebba78bad-1784896925-1784886125
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Star Sports 2
+http://172.31.169.168:8080/StarSports2HD/tracks-v1a1/mono.m3u8?token=34ab47d4762a2e4dc2cc96a1537c30664c067022-dd55c32f5ae6e7a9ba435ceebba78bad-1784896925-1784886125
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Star Sports 
+http://172.31.169.168:8080/StarSports1HD/tracks-v1a1/mono.m3u8?token=8d80bb9b724a981e3a0572ecca707c676f7312e2-17a2171b0082ff28ca8752196767e8f5-1784896923-1784886123
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Sony Ten
+http://172.31.169.168:8080/SonyTen2HD/tracks-v1a1/mono.m3u8?token=1b2b381ee22678cbf97155786ee1e95a4f521d19-50a4bf2be8f390bf2fce967dcd61c1ee-1784896918-1784886118
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",SonyTen
+http://172.31.169.168:8080/SonyTen2HD/tracks-v1a1/mono.m3u8?token=1b2b381ee22678cbf97155786ee1e95a4f521d19-50a4bf2be8f390bf2fce967dcd61c1ee-1784896918-1784886118
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Sony Ten HD 
+http://172.31.169.168:8080/SonyTen1HD/tracks-v1a1/mono.m3u8?token=7687e303ee428a5c52150d2004ab66c450fbb2a5-81bbea10265a8f498452c83cbc6cc261-1784896916-1784886116
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Sony Max HD
+http://172.31.169.168:8080/SonyMaxHD/tracks-v1a1/mono.m3u8?token=34eb9d516b17dd0b33637f768386249acda5a6da-b7a7f4e1ec17c4566b392e4f4a1a8885-1784896913-1784886113
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Sony Tv HD
+http://172.31.169.168:8080/SonyTVHD/tracks-v1a1/mono.m3u8?token=1d0289b1254f1f187589537b3eb2bfd8ec8fa974-98d84dec92d718bdbb90b05ee915da5b-1784896904-1784886104
+#EXTINF:-1 tvg-logo="" group-title="wifi",Discovery HD
+http://172.31.169.168:8080/DiscoveryHD/tracks-v1a1/mono.m3u8?token=5ab68e93b187a1189d6437ae96a20c063836da86-84b793e37c171a9a767764950df7511f-1784896902-1784886102
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",PTV Sports HD
+http://172.31.169.168:8080/PTVSports/tracks-v1a1/mono.m3u8?token=b1954e49f6426ce50d77ece0c906fbb76944e0e0-6e4052af810556523570030f38682801-1784896900-1784886100
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",ENTER 10
+http://172.31.169.168:8080/Enterr10/tracks-v1a1/mono.m3u8?token=36a7e16735511c07434a2dbbb605adcbbbc507c6-3d0d9fcfdcce8703653bef9bbb270965-1784896898-1784886098
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",EKHON HD
+http://172.31.169.168:8080/EkhonTV/tracks-v1a1/mono.m3u8?token=7ff3881977e2f8908ad47c392b5e66a6f608cd3b-cacf97b78723ceeebbb969abff877b33-1784896896-1784886096
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Colors Bangla
+http://172.31.169.168:8080/ColorsBangla/tracks-v1a1/mono.m3u8?token=631686e81f9bba70e5ae1443d5a4328a92035c81-e06bc3ecfae125e283011dd50154a9bc-1784896893-1784886093
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Colours Bangla
+http://172.31.169.168:8080/ColorsBangla/tracks-v1a1/mono.m3u8?token=afad2b25d017cb2f60e499b461eb3aa4762ab02c-f58d013e7b428d6be5c4c71a5b3217db-1784896884-1784886084
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Ekhon Tv
+http://172.31.169.168:8080/EkhonTV/tracks-v1a1/mono.m3u8?token=c037c5a131d62ff361b9585351ffd49de1186d61-f7c1e3b7fa667f9842839ff26d89a446-1784896881-1784886081
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Somoy HD
+http://172.31.169.168:8080/SomoyTv/tracks-v1a1/mono.m3u8?token=0827e2a77d2b994cb2d4b0ec1b61d6935aac5195-9323f4820452c445dbcc27eaea0153ad-1784896878-1784886078
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",NTV HD
+http://172.31.169.168:8080/NTV/tracks-v1a1/mono.m3u8?token=187dbb91a66f6e8254e6ef0c2524292e6f7402e0-e413dc4a188d2954ed888fd9aecf73de-1784896872-1784886072
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",News24 HD
+http://172.31.169.168:8080/News24/tracks-v1a1/mono.m3u8?token=1dcf80eba24239b6c9aa30a21f40ef94f0594861-0401275852312bd2005de85bc38da7b0-1784896869-1784886069
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Star News HD
+http://172.31.169.168:8080/StarNews/tracks-v1a1/mono.m3u8?token=fd76966640969b3cd6f3c81a682f1c305b2af9ba-858d925b8a29de47b308cede172fb25a-1784896867-1784886067
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Maasranga HD
+http://172.31.169.168:8080/Maasranga/tracks-v1a1/mono.m3u8?token=4c1cdc60eff0fc4c9e9ee11a0cab5fab3ad63608-86c8fa4aa19a0856d093d0275ec632c3-1784896861-1784886061
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Independent HD
+http://172.31.169.168:8080/IndependentTV/tracks-v1a1/mono.m3u8?token=c827c69262a34ec4c24ab87df19937176861e41c-184483ee92688563588f651aa6d6f19d-1784896852-1784886052
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",T Sports HD
+http://172.31.169.168:8080/TSportsHD/tracks-v1a1/mono.m3u8?token=e99fdf30765d98a4872f7ea3c766af3a6a57fcaa-377e139f0cd386daa2a68c99b544233a-1784896850-1784886050
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",T Sports HD
+http://172.31.169.168:8080/TSports/tracks-v1a1/mono.m3u8?token=0f95c8d7243b486d357ae9801655a29d574f48ca-5993a8a026a560e1f202f1d81b4e9543-1784896846-1784886046
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Ekushey Tv
+http://172.31.169.168:8080/EkusheyTv/tracks-v1a1/mono.m3u8?token=6ecb030c31f15f238f1c2a26dc45f530fcd38417-1702656e30932c645e74e8d18fff9a2b-1784896844-1784886044
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Depto Tv
+http://172.31.169.168:8080/DeeptoTV/tracks-v1a1/mono.m3u8?token=432e70ac53c4929951ad914cb8b52c88649f2bef-911fe1bf30d1e3662065b95e2c072a4c-1784896829-1784886029
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",chennel 9
+http://172.31.169.168:8080/Channel9/tracks-v1a1/mono.m3u8?token=88b468b1aa123aa52f37d765362957760b8c24f1-3388ced9f6f3c23a93bf8c4fbe71c0d4-1784896827-1784886027
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",DBC News
+http://172.31.169.168:8080/DBCNews/tracks-v1a1/mono.m3u8?token=32045ff981927411fffe8c2aef3242465b1ba00a-c6435c8c3c550d56a8eebba5c65d2e63-1784896825-1784886025
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",DBC News
+http://172.31.169.168:8080/DBCNews/tracks-v1a1/mono.m3u8?token=32045ff981927411fffe8c2aef3242465b1ba00a-c6435c8c3c550d56a8eebba5c65d2e63-1784896825-1784886025
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Channel24
+http://172.31.169.168:8080/Channel24/tracks-v1a1/mono.m3u8?token=91561762c95662f0ead8068094002c10cf633c1c-c2e6bd3fb0f771e7675db5c14ea11d66-1784896822-1784886022
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Bangla Vision
+http://172.31.169.168:8080/BanglaVision/tracks-v1a1/mono.m3u8?token=e4f7e41591a5a35b91b29c1fbcae2f2cb1fe7617-2be116bfb82a6df2fcfde70c15140035-1784896821-1784886021
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Bangla Vision
+http://172.31.169.168:8080/BanglaVision/tracks-v1a1/mono.m3u8?token=e4f7e41591a5a35b91b29c1fbcae2f2cb1fe7617-2be116bfb82a6df2fcfde70c15140035-1784896821-1784886021
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Chennel I
+http://172.31.169.168:8080/ChannelI/tracks-v1a1/mono.m3u8?token=cfbf96377bdf7cd85c21406e406477660ef6874d-c44fba743c69cf99ed554e6d4a85cc5b-1784896817-1784886017
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Chennel 24
+http://172.31.169.168:8080/Channel24/tracks-v1a1/mono.m3u8?token=2b07970e730f143c39e8469008215b119d3ed22b-fd1f4c7df0fd9dd923e83be294c02ab0-1784896815-1784886015
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",BTV
+http://172.31.169.168:8080/BTV/tracks-v1a1/mono.m3u8?token=a60d1da1a830ce46a636e6400b1f9c49428c0706-1065b982c045c372bce5f335d63b98de-1784896790-1784885990
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",BTV
+http://172.31.169.168:8080/BTV/tracks-v1a1/mono.m3u8?token=a60d1da1a830ce46a636e6400b1f9c49428c0706-1065b982c045c372bce5f335d63b98de-1784896790-1784885990
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",BTV
+http://172.31.169.168:8080/BTVWorld/tracks-v1a1/mono.m3u8?token=2120cd5ff56f62a87b63cd88ca87837245ed0dda-e0a7cd9137842ddb89f4e641e1947ced-1784898551-1784887751
