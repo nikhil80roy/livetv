@@ -1132,8 +1132,54 @@ http://172.31.169.168:8080/BTV/tracks-v1a1/mono.m3u8?token=a60d1da1a830ce46a636e
 #EXTINF:-1 tvg-logo="" group-title="wifi",BTV
 http://172.31.169.168:8080/BTV/tracks-v1a1/mono.m3u8?token=a60d1da1a830ce46a636e6400b1f9c49428c0706-1065b982c045c372bce5f335d63b98de-1784896790-1784885990
 
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="wifi",BTV
 http://172.31.169.168:8080/BTVWorld/tracks-v1a1/mono.m3u8?token=2120cd5ff56f62a87b63cd88ca87837245ed0dda-e0a7cd9137842ddb89f4e641e1947ced-1784898551-1784887751
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Star Movies HD
+http://172.31.169.169/live/StarMovies/tracks-v1a1/2026/07/24/11/29/41-05000.ts?token=b67bdab97718546bf5c6e3ce4bfecf9064ec6a4d-975e1c967d9aea1fa0eb5f4475747e0a-1784914276-1784892376
+#EXTINF:-1 tvg-logo="" group-title="wifi",
+http://172.31.169.169/live/SonyMax/tracks-v1a1/2026/07/24/11/30/52-05000.ts?token=d52d85f5b4b965352e5a4d1745d5373620bfdabb-7a9803a3f78b675f814bb8a75089bb62-1784914273-1784892373
+#EXTINF:-1 tvg-logo="" group-title="wifi",Zee Bangla HD
+http://172.31.169.169/live/ZeeBangla/tracks-v1a1/2026/07/24/11/29/57-05000.ts?token=b16823fa2bf0766dce75324ac17b0733d344c747-f5adb3da2582dc77be43d98871626711-1784914266-1784892366
+#EXTINF:-1 tvg-logo="" group-title="wifi",Star Jalsa HD
+http://172.31.169.169/live/StarJalsha/tracks-v1a1/2026/07/24/11/31/06-05000.ts?token=24bf0b32da4ea7957ccc4d17808ae092f2e838c4-117b99014f2d88b03cb7d781110720e5-1784914258-1784892358
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",T Sports HD
+http://172.31.169.169/live/TSports/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=e422b62a5b0785c080f999fc04cb1a0480f33ad8-6fa6551cd6af11c8e1d8d32d5d5b1e72-1784914760-1784892860
+#EXTINF:-1 tvg-logo="" group-title="wifi",Zee Bangla HD
+http://172.31.169.169/live/ZeeBangla/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=eca1bbf59fc08f8c2f77b23bec8e4f921c64f294-4cbb85bfcc8d421f9c0e5afbfe7ec372-1784914820-1784892920
+#EXTINF:-1 tvg-logo="" group-title="wifi",Star Plus HD
+http://172.31.169.169/live/StarPlus/tracks-v1a1/mono.m3u8?remote=no_check_ip&token=1f96baeb52f83dcfb560c00d3d72cbc064026341-5cd470a44351f9dad74433c8b4acba25-1784914900-1784893000
+#EXTINF:-1 tvg-logo="" group-title="wifi",
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",
+
+
+
+
