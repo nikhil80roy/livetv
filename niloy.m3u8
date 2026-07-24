@@ -974,11 +974,6 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108813
 http://hz1.teleport.cc/HLS/HD.m3u8  
 #EXTM3U Local ISp
 
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="" group-title="wifi",T Sports HD
-
-
 #EXTINF:-1 tvg-logo="" group-title="wifi",T Sports HD
 http://172.31.169.169/live/TSports/index.m3u8
 
