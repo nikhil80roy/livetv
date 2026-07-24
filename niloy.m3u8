@@ -972,7 +972,7 @@ http://103.175.73.12:8080/live/378/378_0.m3u8
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108813
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Dhoom_Music_new.jpeg/revision/latest?cb=20191218152121"group-title="Music Channel"group-title="",English Songs
 http://hz1.teleport.cc/HLS/HD.m3u8  
-#EXTM3U
+#EXTM3U Local ISp
 
 #EXTINF:-1 tvg-logo="" group-title="wifi",Zee Cinama HD
 http://172.31.169.168:8080/ZeeCinemaHD/tracks-v1a1/mono.m3u8?token=36c031cfdadd81d1f1e83dbc258967756e5179fa-b69769dbf53b2e1d46a97d545a8d84df-1784896944-1784886144
@@ -1072,10 +1072,6 @@ http://172.31.169.168:8080/StarNews/tracks-v1a1/mono.m3u8?token=fd76966640969b3c
 
 #EXTINF:-1 tvg-logo="" group-title="wifi",Maasranga HD
 http://172.31.169.168:8080/Maasranga/tracks-v1a1/mono.m3u8?token=4c1cdc60eff0fc4c9e9ee11a0cab5fab3ad63608-86c8fa4aa19a0856d093d0275ec632c3-1784896861-1784886061
-
-
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="wifi",Independent HD
 http://172.31.169.168:8080/IndependentTV/tracks-v1a1/mono.m3u8?token=c827c69262a34ec4c24ab87df19937176861e41c-184483ee92688563588f651aa6d6f19d-1784896852-1784886052
