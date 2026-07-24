@@ -974,55 +974,78 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108813
 http://hz1.teleport.cc/HLS/HD.m3u8  
 #EXTM3U Local ISp
 
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",T Sports HD
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="wifi",T Sports HD
 http://172.31.169.169/live/TSports/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="wifi",T Sports HD
 http://172.31.169.169/live/TSports/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="wifi",Depto Tv
 http://172.31.169.169/live/SOMOY/index.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="" group-title="wifi",BTV HD
 http://172.31.169.169/live/BTV/index.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="" group-title="wifi",DBC News
 http://172.31.169.169/live/DBCNews/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="wifi",News24 
 http://172.31.169.169/live/News24/index.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="" group-title="wifi",Ekattor Tv HD
 http://172.31.169.169/live/EkattorTV/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="wifi",G Series Drama HD
 http://172.31.169.169/live/GSeriesDrama/index.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="" group-title="wifi",Star Plus HD
 http://172.31.169.169/live/StarPlus/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="wifi",Star Jalsa HD
 http://172.31.169.169/live/StarJalsha/index.m3u8
 
 
+
 #EXTINF:-1 tvg-logo="" group-title="wifi",Colors Bangla HD
 http://172.31.169.169/live/ColorsBangla/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="wifi",Zee Bangla HD
 http://172.31.169.169/live/ZeeBangla/index.m3u8
 
 
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="wifi",Sony Max HD
 http://172.31.169.169/live/SonyMax/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="wifi",Star Movies
