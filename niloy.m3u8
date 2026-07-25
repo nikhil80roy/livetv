@@ -756,8 +756,6 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Star_Movies2009.png/revision/latest?cb=20230630132821"group-title="Hindi channel" group-title="",Star Movies
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/979.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Star_Movies2009.png/revision/latest?cb=20230630132821"group-title="Hindi channel" group-title="",Star Movies HD
-http://172.31.169.169/live/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818"group-title="Hindi channel" group-title="",B4U KADAK
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Sony_Max_HD_2015.svg/revision/latest?cb=20250131101620"group-title="Hindi channel" group-title="",Sony Max HD
@@ -972,90 +970,3 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 http://103.175.73.12:8080/live/378/378_0.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Dhoom_Music_new.jpeg/revision/latest?cb=20191218152121"group-title="Music Channel"group-title="",Dhoom Music
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108813
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Dhoom_Music_new.jpeg/revision/latest?cb=20191218152121"group-title="Music Channel"group-title="",English Songs
-http://hz1.teleport.cc/HLS/HD.m3u8  
-#EXTM3U Local ISp
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="wifi",T Sports HD
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="wifi",T Sports HD
-http://172.31.169.169/live/TSports/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="wifi",T Sports HD
-http://172.31.169.169/live/TSports/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="wifi",Depto Tv
-http://172.31.169.169/live/SOMOY/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="wifi",BTV HD
-http://172.31.169.169/live/BTV/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="wifi",DBC News
-http://172.31.169.169/live/DBCNews/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="wifi",News24 
-http://172.31.169.169/live/News24/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="wifi",Ekattor Tv HD
-http://172.31.169.169/live/EkattorTV/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="wifi",G Series Drama HD
-http://172.31.169.169/live/GSeriesDrama/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="wifi",Star Plus HD
-http://172.31.169.169/live/StarPlus/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="wifi",Star Jalsa HD
-http://172.31.169.169/live/StarJalsha/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="wifi",Colors Bangla HD
-http://172.31.169.169/live/ColorsBangla/index.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="wifi",Zee Bangla HD
-http://172.31.169.169/live/ZeeBangla/index.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="wifi",Sony Max HD
-http://172.31.169.169/live/SonyMax/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="wifi",Star Movies
-http://172.31.169.169/live/StarMovies/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
