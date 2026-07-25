@@ -332,6 +332,8 @@ http://103.165.93.31:8095/ekattorTv/index.m3u8
 https://padmaonline.duckdns.org:8088/pcv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/82/Ekattor_TV_HD_2012.png/revision/latest?cb=20231121094023"group-title="Bangladeshi channel" group-title="",Ekattor Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=2202800.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/82/Ekattor_TV_HD_2012.png/revision/latest?cb=20231121094023"group-title="Bangladeshi channel" group-title="",Ekattor Tv
+http://103.165.93.31:8095/ekattorTv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/DeshTV2022Logo.svg"group-title="Bangladeshi channel" group-title="",DESH TV
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9FRdJCwg/Rajdhani-Cable.png"group-title="Bangladeshi channel" group-title="",Rajdhani TV HD
@@ -448,6 +450,8 @@ https://amg01412-xiaomiasia-zee24ghantaa-xiaomi-cvo5n.amagi.tv/playlist/amg01412
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/89/Jamuna_TV.png/revision/latest/scale-to-width-down/1000?cb=20231125051005"group-title="Bangladeshi channel" group-title="",Jamuna tv
 http://38.96.178.201/live/JamunaTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/89/Jamuna_TV.png/revision/latest/scale-to-width-down/1000?cb=20231125051005"group-title="Bangladeshi channel" group-title="",Jamuna tv
+http://103.165.93.31:8095/jamunaTv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/89/Jamuna_TV.png/revision/latest/scale-to-width-down/1000?cb=20231125051005"group-title="Bangladeshi channel" group-title="",Jamuna tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/89/Jamuna_TV.png/revision/latest/scale-to-width-down/1000?cb=20231125051005"group-title="Bangladeshi channel" group-title="",Jamuna tv HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/tracks-v1a1/mono.m3u8
@@ -455,6 +459,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/ATN_News_logo.svg/revision/latest?cb=20260127200826"group-title="Bangladeshi channel" group-title="",ATN NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/ATN_News_logo.svg/revision/latest?cb=20260127200826"group-title="Bangladeshi channel" group-title="",ATN NEWS
+http://103.165.93.31:8095/atnNews/video.m3u8
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/ATN_Bangla?file=Logo_of_ATN_Bangla.svg"group-title="Bangladeshi channel" group-title="",ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Qe2NHP01Mr4UVjq_rAE8KtRAFvdDiY1Q3ZjhWYeu6g&s=10"group-title="Bangladeshi channel" group-title="",Vision 24
