@@ -396,7 +396,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangladeshi channel" group-title="",Channel 1
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/09/Global_Television_HD.png/revision/latest?cb=20231121084454"group-title="Bangladeshi channel" group-title="",Global TVHD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/09/Global_Television_HD.png/revision/latest?cb=20231121084454"group-title="Bangladeshi channel" group-title="",Global HD
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/09/Global_Television_HD.png/revision/latest?cb=20231121084454"group-title="Bangladeshi channel" group-title="",Global HD
 http://103.229.254.25:7001/play/a05o/index.m3u8
@@ -749,6 +749,10 @@ https://pixeldrain.dev/api/file/FNUmbZeA?download
 https://pixeldrain.dev/api/file/kGboiuJi?download
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZlZDhlZDYtYzAxZi00YjVlLTgyZDQtMTlhZDlhYTkxMWZhXkEyXkFqcGc@._V1_SX300.jpg"group-title="Bangladeshi Movie new" group-title="",Angaar (2016)
 https://pixeldrain.dev/api/file/JcRnZK5r?download
+#EXTINF:-1 tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_vbd71784798786.jpg"group-title="Bangladeshi Movie new" group-title="",Lenin (2026)
+https://pub-f85680743e6f48c3b210af18613f778c.r2.dev/0b0b3b03181c47f8fa384688faa9dc0a?t=1785062838&token=7ab493b13731c9c5126838a74450cb676e6513faa2775aef51307f3ee14f3699
+#EXTINF:-1 tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_vbd71784798786.jpg"group-title="Bangladeshi Movie new" group-title="",Lenin (2026)
+https://pub-daf830b130324f00b16d896a866e239f.r2.dev/0caa7c6b7aed9b8092a3a34d46679cb0faaedfe7?response-content-disposition=attachment&_t=1785063145
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91YwoAfOtbhMtXFzPHmWOEz15Q8.jpg"group-title="Bangladeshi Movie new" group-title="",Rockstar (2026)
 https://store-eu-par-7.gofile.io/download/web/9f34bf95-2124-4a8f-804d-541e5e339b6b/MLSBD.Co-Rockstar%20(2026)%20Bengali%20Chorki%20WEB-DL%20H264%20AAC%201080p.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91YwoAfOtbhMtXFzPHmWOEz15Q8.jpg"group-title="Bangladeshi Movie new" group-title="",Rockstar (2026)
