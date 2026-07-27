@@ -498,6 +498,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Somoy_TV?file=Somoy_TV_logo.png"group-title="Bangladeshi channel" group-title="",Somoy Tv HD
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Somoy_TV?file=Somoy_TV_logo.png"group-title="Bangladeshi channel" group-title="",Somoy Tv HD
+https://bozztv.com/rongo/rongo-somoy/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Boishaki TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",RTV HD
@@ -1089,6 +1091,10 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 http://103.159.180.34:5001/live/585.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Music Channel"group-title="",EPC Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/826/921/png-transparent-atn-aastha-tv-television-channel-broadcasting-others-television-text-logo.png"group-title="Music Channel"group-title="",Astha Bajan
+https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/826/921/png-transparent-atn-aastha-tv-television-channel-broadcasting-others-television-text-logo.png"group-title="Music Channel"group-title="",Astha Bajan
+https://mumt05.tangotv.in/87NeALx2AASTHABHAJAN/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Sangeet_bhojpuri.png/revision/latest?cb=20210510105350"group-title="Music Channel"group-title="",Songeet Bhojpuri
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMrYP9gn/Screenshot-2026-07-16-100700.jpg"group-title="Music Channel"group-title="",Dewana song HD
