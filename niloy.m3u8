@@ -498,6 +498,50 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://etv-gspn-bangla.fandom.com/wiki/Somoy_TV?file=Somoy_TV_logo.png"group-title="Bangladeshi channel" group-title="",Somoy Tv HD
 https://bozztv.com/rongo/rongo-somoy/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="wifi",Star movies
+http://172.30.169.169:8080/StarMovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Star Movies
+http://172.30.169.169:8080/StarMovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Zee Bangla HD
+http://172.30.169.169:8080/ZeeBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Zee Bangla HD
+http://172.30.169.169:8080/ZeeBangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Colora Bangla HD
+http://172.30.169.169:8080/ColorsBangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Star Jalsa HD
+http://172.30.169.169:8080/StarJalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Star Jalsa HD
+http://172.30.169.169:8080/StarJalsha/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Star Plus HD
+http://172.30.169.169:8080/StarPlus/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Ektattor Tv HD
+http://172.30.169.169:8080/EkattorTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",News24 HD
+http://172.30.169.169:8080/News24/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",DBC News HD
+http://172.30.169.169:8080/DBCNews/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Somoy Tv HD
+http://172.30.169.169:8080/SOMOY/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",T Sports HD
+http://172.30.169.169:8080/TSports/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",Sony Max HD
+http://172.30.169.169:8080/SonyMax/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="wifi",BTV HD
+http://172.30.169.169:8080/BTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",Boishaki TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",RTV HD
