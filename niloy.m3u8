@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ekhontv.jpg"group-title="Bangla channel" group-title="",Ekhon TV
-https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png"group-title="Bangla channel" group-title="",BTV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 
@@ -113,6 +110,9 @@ https://playztv-apps.pages.dev/ntv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/2/29/Channel_24_logo.png/revision/latest?cb=20231125044144"group-title="Bangla channel" group-title="",Channel 24
 http://103.165.93.31:8095/channel24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ekhontv.jpg"group-title="Bangla channel" group-title="",Ekhon TV
+https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/NTV_logo_2003.png/revision/latest?cb=20210903091604"group-title="Bangla channel" group-title="",Channel 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
