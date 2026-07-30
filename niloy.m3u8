@@ -552,10 +552,10 @@ http://172.30.169.169:8080/News24/index.m3u8
 #EXTINF:-1 tvg-logo="https://postimg.cc/delete/3scPkV2p/7b0ee3af" group-title="wifi link3",DBC News HD
 http://172.30.169.169:8080/DBCNews/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://postimg.cc/delete/3scPkV2p/7b0ee3af" group-title="wifi link3",Somoy Tv HD
+#EXTINF:-1 tvg-logo="https://constitutional-blue-fin7cma9.edgeone.dev/" group-title="wifi link3",Somoy Tv HD
 http://172.30.169.169:8080/SOMOY/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://postimg.cc/delete/3scPkV2p/7b0ee3af" group-title="wifi link3",T Sports HD
+#EXTINF:-1 tvg-logo="https://constitutional-blue-fin7cma9.edgeone.dev/" group-title="wifi link3",T Sports HD
 http://51.79.251.252:8081/T-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://postimg.cc/delete/3scPkV2p/7b0ee3af" group-title="wifi link3",Sony Max HD
@@ -563,9 +563,9 @@ http://172.30.169.169:8080/SonyMax/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://postimg.cc/delete/3scPkV2p/7b0ee3af" group-title="wifi link3",BTV HD
 http://172.30.169.169:8080/BTV/index.m3u8
-#EXTINF:-1 tvg-logo="blob:https://www.image2url.com/28e0e47d-abfe-4831-b991-83ef602d62e9"group-title="jagobd" group-title="",Boishaki TV
+#EXTINF:-1 tvg-logo="https://constitutional-blue-fin7cma9.edgeone.dev/"group-title="jagobd" group-title="",Boishaki TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="blob:https://www.image2url.com/28e0e47d-abfe-4831-b991-83ef602d62e9"group-title="jagobd" group-title="",RTV HD
+#EXTINF:-1 tvg-logo="https://constitutional-blue-fin7cma9.edgeone.dev/"group-title="jagobd" group-title="",RTV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.corenexis.com/f/2AkRQsVQ6ui.jpg"group-title="jagobd" group-title="",ATN Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbanglauk-off.stream/tracks-v1a1/mono.m3u8
