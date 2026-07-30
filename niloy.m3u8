@@ -504,8 +504,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/ATN_News?file=ATN_News_logo.svg"group-title="Bangla channel" group-title="",ATN NEWS
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Bangla channel" group-title="",S Bangla 
-
 #EXTINF:-1 tvg-logo=""group-title="Bangla channel" group-title="",Movie Bangla HD
 http://51.79.251.252:7171/movie-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Channel_1_Logo_Bangladesh.svg/revision/latest?cb=20260205224305"group-title="Bangla channel" group-title="",Channel 1
