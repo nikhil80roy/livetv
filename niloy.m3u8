@@ -441,7 +441,6 @@ https://srkapp.ncare.live/flixhls/flixsrktv.stream/tracks-v1a1/mono.m3u8
 https://app.ncare.live/live-orgin/channels.stream/playlist.m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3c/Channel_S_logo.png/revision/latest/scale-to-width-down/1000?cb=20240903012927"group-title="Bangla channel" group-title="",Channel S
 http://mag.trexlive.me:80/play/live.php?mac=A0:BB:3E:42:A2:9C&stream=165512&extension=m3u8
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s3/165512.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3c/Channel_S_logo.png/revision/latest/scale-to-width-down/1000?cb=20240903012927"group-title="Bangla channel" group-title="",Channel S
 https://sm-monirul.top/toffee/play/channel_s.m3u8
 #EXTINF:-1 tvg-logo="https://unmochontv.com/wp-content/uploads/2026/01/Untitled-design-3-1-e1767343870887.png"group-title="Bangla channel" group-title="",Unmochon tv
@@ -476,7 +475,7 @@ https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sananda_TV.jpg/revision/latest?cb=20191221051538"group-title="Bangla channel" group-title="",Sanonda Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Zee_24_ghanta.png/revision/latest/scale-to-width-down/1000?cb=20210509174741"group-title="Bangla channel" group-title="",Star Bangla
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Zee_24_ghanta.png/revision/latest/scale-to-width-down/1000?cb=20210509174741"group-title="Bangla channel" group-title="",Zee 24 Ghanta
 https://amg01412-xiaomiasia-zee24ghantaa-xiaomi-cvo5n.amagi.tv/playlist/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/89/Jamuna_TV.png/revision/latest/scale-to-width-down/1000?cb=20231125051005"group-title="Bangla channel" group-title="",Jamuna tv
 http://38.96.178.201/live/JamunaTV/index.m3u8
