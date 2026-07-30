@@ -556,7 +556,7 @@ http://172.30.169.169:8080/DBCNews/index.m3u8
 http://172.30.169.169:8080/SOMOY/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="wifi link3",T Sports HD
-http://172.30.169.169:8080/TSports/index.m3u8
+http://51.79.251.252:8081/T-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="wifi link3",Sony Max HD
 http://172.30.169.169:8080/SonyMax/tracks-v1a1/mono.m3u8
