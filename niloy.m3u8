@@ -563,6 +563,114 @@ http://172.30.169.169:8080/SonyMax/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="wifi link3",BTV HD
 http://172.30.169.169:8080/BTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",T Sports HD
+http://103.102.27.173:84/T-SPORTS-HD-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",COLORS CINEPLEX HD
+http://103.102.27.173:84/COLORS-CINEPLEX-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Somoy TV HD
+http://103.102.27.173:84/SOMOY-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",BTV News HD
+http://103.102.27.173:84/BTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Nagorik TV HD
+http://103.102.27.173:84/NAGORIK-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Star Sports HD
+http://103.102.27.173:84/STAR-SPORTS-1-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Star Select HD 1
+http://103.102.27.173:84/STAR-SELECT-1-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",A Sports HD
+http://103.102.27.173:84/A-SPORTS-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",A Sports HD
+http://103.102.27.173:84/A-SPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Ten Sports HD
+http://103.102.27.173:84/Ten-Cricket/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Ten Sports HD
+http://103.102.27.173:84/Ten-Cricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Gazi TV HD
+http://103.102.27.173:84/GTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",PTV- Sports HD
+http://103.102.27.173:84/PTV-SPORTS-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Sun Bangla HD
+http://103.102.27.173:84/SUN-BANGLA-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Sun Bangla HD
+http://103.102.27.173:84/SUN-BANGLA-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Colors Bangla Cinema HD
+http://103.102.27.173:84/Colors-bangla-cinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Sangeet Bangla HD
+http://103.102.27.173:84/Sangeet-Bangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Sony AATH
+http://103.102.27.173:84/SONY-AATH/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",ZEE BANGLA HD
+http://103.102.27.173:84/ZEE-BANGLA-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Star Jalsa HD
+http://103.102.27.173:84/STAR-JALSHA-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",ENTER BANLA HD
+http://103.102.27.173:84/ENTERR-10/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Colors Bangla HD
+http://103.102.27.173:84/COLORS-BANGLA-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Jalsa Movies HD
+http://103.102.27.173:84/JALSHA-MOVIES-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Zeee Bangla Cinema HD
+http://103.102.27.173:84/Zee-Bangla-Cinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Desh TV HD
+http://103.102.27.173:84/Desh-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",SA TV HD
+http://103.102.27.173:84/SA-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Ekushey TV HD
+http://103.102.27.173:84/Ekushey-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Channel 9 HD
+http://103.102.27.173:84/CHANNEL-9-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",MY TV HD
+http://103.102.27.173:84/MY-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Zee Action HD
+http://103.102.27.173:84/Zee-Action/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Zing HD
+http://103.102.27.173:84/ZING/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",AXN HD
+http://103.102.27.173:84/AXN-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Zee TV HD
+http://103.102.27.173:84/ZEE-TV-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",9XM Music
+http://103.102.27.173:84/9XM-MUSIC/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Zoom Music
+http://103.102.27.173:84/zoom/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Star Plus HD
+http://103.102.27.173:84/STAR-PLUS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Star Movies HD
+http://103.102.27.173:84/STAR-MOVIES-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Star Gold HD
+http://103.102.27.173:84/STAR-GOLD-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",BTV HD
+http://103.102.27.173:84/tvfeed1001/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Global TV HD
+http://103.102.27.173:84/global-tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Nexus TV HD
+http://103.102.27.173:84/Nexus-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",SONY ENTERTAINMENT
+http://103.102.27.173:84/SONY-ENT-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Nick Bangla HD
+http://103.102.27.173:84/NICK-BANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Sony Pix HD
+http://103.102.27.173:84/SonyPix-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",DISCOVERY HD
+http://103.102.27.173:84/DISCOVERY-BANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",National Geography HD
+http://103.102.27.173:84/NATGEO-BANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",ATN BANGLA HD
+http://103.102.27.173:84/ATN-BANGLA/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",ZEE CINEMA HD
+http://103.102.27.173:84/ZEE-CINEMA-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",Boishaki TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",RTV HD
