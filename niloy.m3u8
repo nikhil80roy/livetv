@@ -744,6 +744,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/greentv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",Jatv HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/jatvbd.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",BD Amr Bangla 24
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/citizentv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",Ekattor TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekattor.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="jagobd" group-title="",Jamuna TV HD
@@ -1339,7 +1341,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CMnKypLt/Screenshot-2026-07-09-164709.jpg"group-title="Music Channel"group-title="",Mon Bangla HD
 http://115.187.41.216:8080/hls/montvbangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMnKypLt/Screenshot-2026-07-09-164709.jpg"group-title="Music Channel"group-title="",Mon Bangla HD
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png"group-title="Music Channel"group-title="",Mon Bangla2 HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/montv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png/revision/latest/scale-to-width-down/1000?cb=20240608155112"group-title="Music Channel"group-title="",B4U Music HD
 http://103.175.73.12:8080/live/157/157_0.m3u8
