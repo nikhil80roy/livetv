@@ -1363,3 +1363,5 @@ http://103.175.73.12:8080/live/379/379_0.m3u8
 http://103.175.73.12:8080/live/378/378_0.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Dhoom_Music_new.jpeg/revision/latest?cb=20191218152121"group-title="Music Channel"group-title="",Dhoom Music
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108813
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWM8TVpb/Screenshot-2026-08-03-093525.jpg"group-title="Music Channel"group-title="",Bangla Beats
+https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8
