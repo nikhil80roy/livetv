@@ -5,8 +5,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 #EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png"group-title="Bangla channel" group-title="",BTV HD
 http://51.79.251.252:8080/BTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png"group-title="Bangla channel" group-title="",BTV HD
-http://51.79.251.252:8080/BTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193167149_3.png&w=1920&q=75"group-title="Bangla channel" group-title="",BTV CTG
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_ctg&format=.m3u8
 
 #EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png"group-title="Bangla channel" group-title="",BTV HD
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
@@ -994,6 +994,8 @@ https://pixeldrain.dev/api/file/JcRnZK5r?download
 https://pub-f85680743e6f48c3b210af18613f778c.r2.dev/0b0b3b03181c47f8fa384688faa9dc0a?t=1785062838&token=7ab493b13731c9c5126838a74450cb676e6513faa2775aef51307f3ee14f3699
 #EXTINF:-1 tvg-logo="https://pub-69b6234af505413bbeac2bbc8039195c.r2.dev/poster_vbd71784798786.jpg"group-title="Bangladeshi Movie new" group-title="",Lenin (2026)
 https://pub-daf830b130324f00b16d896a866e239f.r2.dev/0caa7c6b7aed9b8092a3a34d46679cb0faaedfe7?response-content-disposition=attachment&_t=1785063145
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNWViYzgzNzQtMTA0YS00NmRhLWFhZDEtNzEzMjM5OTA4NzRhXkEyXkFqcGc@._V1_.jpg"group-title="Bangladeshi Movie new" group-title="",Borbad 2025
+https://pixeldrain.dev/api/file/xb8bsRiN?download
 #EXTINF:-1 tvg-logo="https://myimg.click/images/2026/05/01/Bhartha-Mahasayulaku-Wignyapthi-2026.jpg"group-title="Bangladeshi Movie new" group-title="",Bhartha Mahasayulaku Wignyapthi 2026
 https://pixeldrain.dev/api/file/8ihGp5UZ?download
 #EXTINF:-1 tvg-logo="https://myimg.click/images/2018/06/20/Vivegam-2017-HDRip-UNCUT-Hindi-Dual-Audio-720p.jpg"group-title="Bangladeshi Movie new" group-title="",Vivegam
