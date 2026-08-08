@@ -1138,9 +1138,9 @@ https://cdn-4.pishow.tv/live/233/master.m3u8
 https://cdn-2.pishow.tv/live/419/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony Entertainment
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Pitara Movies
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Pitaara_2.jpeg/revision/latest?cb=20191219155318"group-title="Hindi channel" group-title="",Pitara Movies
 https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Hindi channel" group-title="",Pitara Movies
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Pitaara_2.jpeg/revision/latest?cb=20191219155318"group-title="Hindi channel" group-title="",Pitara Movies
 https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/SET-LOGO-HD.png/revision/latest?cb=20221023215435"group-title="Hindi channel" group-title="",Sony Entertainment
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/9885.ts
