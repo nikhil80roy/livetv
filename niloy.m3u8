@@ -1328,7 +1328,7 @@ http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Ptvsports.png/revision/latest?cb=20240716062910"group-title="Sport Update",PTV Sports
-http://103.165.93.31:8095/ptv/video.m3u8
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-PTVSports.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Ptvsports.png/revision/latest?cb=20240716062910"group-title="Sport Update",PTV Sports
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
