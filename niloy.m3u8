@@ -556,6 +556,9 @@ http://172.30.169.169:8080/StarPlus/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="wifi link3",Ektattor Tv HD
 http://172.30.169.169:8080/EkattorTV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="wifi link3",G Series Drama HD
+http://172.30.169.169/live/GSeriesDrama/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="wifi link3",News24 HD
 http://172.30.169.169:8080/News24/index.m3u8
 
