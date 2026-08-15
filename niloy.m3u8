@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png"group-title="Bangla channel" group-title="",BTV HD
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
