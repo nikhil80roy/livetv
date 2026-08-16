@@ -754,6 +754,8 @@ http://103.102.27.173:84/ARY-Digital/tracks-v1a1/mono.m3u8
 http://103.102.27.173:84/Zee-Anmol/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Animal Planet HD
 http://103.102.27.173:84/ANIMAL-PLANET-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Ten Sports HD
+http://103.102.27.173:84/Ten-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Star Movies Select HD
 http://103.102.27.173:84/STAR-MOVIES-SELECT-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV", National Wild HD
@@ -1038,6 +1040,8 @@ https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CINEFREAK.TOP%20-%20Maa%20In
 https://fmftp.net/data/disk-1/movies/hindidub/Maa%20Inti%20Bangaram%20(2026)/Maa%20Inti%20Bangaram.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original//vJq0vuEV2ksMVl0sxsdBaU06FQL.jpg"group-title="Bangladeshi Movie new" group-title="",Cocktail 2
 https://fmftp.net/data/disk-1/movies/bollywood/2026/Cocktail%202%20(2026)/Cocktail%202.mp4
+#EXTINF:-1 tvg-logo="https://cdn.imgnest.io/uploads/images/2026/08/15/awarapan-2-2026-hindi-hdtc-h26_oNgmxeA4.jpg"group-title="Bangladeshi Movie new" group-title="",Awarapan 2
+https://eu-1.indexserver.site/GDFSUzBmSkcwSUtUd25JQnI0UU5oNmE3ZzA2VGgyckpOU0dNR3o1RHpRT0MrZmdvbzNqd2Z5QXlOODVrSTFRU0JQZg/new3.gdflix.io/CineDoze.TV-Awarapan_2_%282026%29_MLSBD.Co-Hindi_HDTC_720p.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original//vJq0vuEV2ksMVl0sxsdBaU06FQL.jpg"group-title="Bangladeshi Movie new" group-title="",Cocktail 2 HD
 https://pixeldrain.com/api/file/4miSpdhx?download
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXzzpcEMFeJePnXOUaZYu-rBjUVqTNKEDr9DCKZIA0TjYUyZeWv7n-u1D4&s=10"group-title="Bangladeshi Movie new" group-title="",Khoka 420
