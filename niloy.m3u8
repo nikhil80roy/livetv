@@ -648,6 +648,8 @@ http://103.102.27.173:84/SONY-AATH/index.m3u8
 http://103.102.27.173:84/ZEE-BANGLA-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Star Jalsa HD
 http://103.102.27.173:84/STAR-JALSHA-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Somoy TV HD
+http://103.102.27.173:84/SOMOY-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",ENTER BANLA HD
 http://103.102.27.173:84/ENTERR-10/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Colors Bangla HD
@@ -672,6 +674,8 @@ http://103.102.27.173:84/Zee-Action/index.m3u8
 http://103.102.27.173:84/ZING/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",AXN HD
 http://103.102.27.173:84/AXN-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",T Sports HD
+http://103.102.27.173:84/T-SPORTS-HD-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",Zee TV HD
 http://103.102.27.173:84/ZEE-TV-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="Nikhil IPTV",9XM Music
