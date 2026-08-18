@@ -1,6 +1,7 @@
 #EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png"group-title="Bangla channel" group-title="",BTV HD
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/BTV_Chattogram_Logo.svg"group-title="Bangla channel" group-title="",BTV Chattagram HD
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png"group-title="Bangla channel" group-title="",BTV HD
 https://akash-by-hady.srhady.workers.dev/live/122.m3u8
 #EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png"group-title="Bangla channel" group-title="",BTV NEWS HD
