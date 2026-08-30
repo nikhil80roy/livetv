@@ -1058,6 +1058,8 @@ http://uesztesm.ioiju.com:80/live/B35DKUNA/M7EAAYCS/132124.ts
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Bhojpuri Channel" group-title="",EPIC Bhojpuri
 https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Epic_On.png/revision/latest?cb=20200120180337"group-title="Bhojpuri Channel" group-title="",EPIC Bhojpuri HD
+https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Oscar_movies_bhojpuri.png/revision/latest/scale-to-width-down/1000?cb=20210510102742"group-title="Bhojpuri Channel" group-title="",Oscar Movies Bhojpuri
 https://cdn-4.pishow.tv/live/233/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545"group-title="Hindi channel" group-title="",B4U Movie HD
