@@ -592,6 +592,8 @@ https://media.amarnet.net/sonymaxhd/index.m3u8
 https://media.amarnet.net/StarPlusHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="BDIXTV",National Geography
 https://media.amarnet.net/NATGEO_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="BDIXTV",Discovery HD
+https://media.amarnet.net/DISCOVERY_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="BDIXTV",United8  1 HD
 https://media.amarnet.net/Unite8_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-07-30-718281e4-77fc-4dda-9ce6-057fa7089fb9.png" group-title="BDIXTV",willow HD
